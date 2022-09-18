@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00292_00">
+
+  <appVersion>1.00</appVersion>
+  <runtimeVersion>2.00</runtimeVersion>
+  <packageSize>24838288</packageSize>
+  <localizedMetadataList default_locale="ja"><localizedMeta locale="ja"><description><![CDATA[このコンテンツはAndroid™端末非対応です。<BR><BR>日本クリエイター育成協会主催の<BR>「ゲームキャンパスフェス2014」入賞タイトルがPlayStation®Mobileで遂に配信！<BR><BR>「エレクトリックに、つなげるトリック」――<BR>普段は目に見ることのできない「電子」の「動き」。<BR><BR>そこに着想を得て生まれたこのEleconnectは、<BR>「電子」を「エレクス」というキャラクターにて表現し、<BR>その「動き」をゲームとして発展させた作品です。<BR><BR>パネルを回転させてエレクスの通り道を組み立てる、<BR>カンタンだけどすこしトリッキーなパズルゲーム。<BR>増殖しながらパネルの上を走るエレクスのスピード感と、<BR>その行く手を阻むギミックの攻略を楽しんでもらいたいと思います。<BR><BR>全てのパネルにエレクスを流し、目指せエレクスチャージ率500EC！<BR>さあ、Eleconnectで全てを繋げよう。<BR><BR>主催：日本クリエイター育成協会<BR>開発支援：株式会社スマイルブーム/株式会社ブービートラップ<BR>配信・販売協力：株式会社ブービートラップ<BR>プラットフォーム協力：株式会社ソニー・コンピュータエンタテインメント <BR><BR>コンテンツ容量: 24 MB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR>- コントローラーまたは、オンスクリーンコントローラー<BR><BR>対応言語:<BR>日本語<BR><BR>著作権等:<BR>Nagoya Kougakuin College<BR><BR>Android is a trademark of Google Inc.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Puzzle"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_3.png</ratingLogo></rating><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating><rating type="ESRB"><ratingLogo>ESRB_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_1.png</screenShot><screenShot>screenshot_2.png</screenShot><screenShot>screenshot_3.png</screenShot></screenShotList>
+
+</psmMeta>

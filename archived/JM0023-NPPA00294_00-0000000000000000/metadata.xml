@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00294_00">
+
+  <appVersion>1.00</appVersion>
+  <runtimeVersion>2.00</runtimeVersion>
+  <packageSize>26445168</packageSize>
+  <localizedMetadataList default_locale="ja"><localizedMeta locale="ja"><description><![CDATA[このコンテンツはAndroid™端末非対応です。<BR><BR>日本クリエイター育成協会主催の<BR>「ゲームキャンパスフェス2014」入賞タイトルがPlayStation®Mobileで遂に配信！<BR><BR>忍者が主役のランゲームが登場！<BR>表と裏の世界を行き来し、追っ手から逃げ切れ！<BR><BR>ゲーム操作はモーションセンサーとタッチパネルのみ！　<BR><BR>表の世界では画面をタッチし、穴などを飛び越えろ！<BR><BR>裏の世界では影忍になり、壁やクナイをすり抜けます。<BR>影と繋がってしまうため、穴は飛び越えらない！<BR>強い光に当たるとダメージを受けてしまう！<BR>影と実体、２つの姿を使いこなせ！<BR><BR>－逃げ切れ　世界の裏まで－　<BR><BR><BR>主催：日本クリエイター育成協会<BR>開発支援：株式会社スマイルブーム/株式会社ブービートラップ<BR>配信・販売協力：株式会社ブービートラップ<BR>プラットフォーム協力：株式会社ソニー・コンピュータエンタテインメント <BR><BR>コンテンツ容量: 26 MB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR>- モーションセンサー<BR><BR>対応言語:<BR>日本語<BR><BR>著作権等:<BR>OTA INFORMATION &amp; BUSINESS COLLEGE<BR><BR>Android is a trademark of Google Inc.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Action"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_3.png</ratingLogo></rating><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating><rating type="ESRB"><ratingLogo>ESRB_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_4.png</screenShot><screenShot>screenshot_5.png</screenShot><screenShot>screenshot_6.png</screenShot><screenShot>screenshot_7.png</screenShot></screenShotList>
+
+</psmMeta>

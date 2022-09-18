@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPNA00288_00">
+
+  <appVersion>1.00</appVersion>
+  <runtimeVersion>4.03</runtimeVersion>
+  <packageSize>32385248</packageSize>
+  <localizedMetadataList default_locale="en"><localizedMeta locale="en_GB"><description><![CDATA[THIS CONTENT IS NOT COMPATIBLE WITH Android™ DEVICES.<BR><BR>Destroy rocks in this arcade-styled shooter!<BR><BR>* Earn currency to purchase upgrades/shields<BR>* Unlock different afterburner trails<BR>* Timed and survival modes <BR><BR>Package size: 31 MB - More storage space required for install<BR><BR>Compatibility information:<BR>Number of players for local play: 1 Player<BR><BR>Supported interfaces/sensors<BR>- Touchscreen<BR>- Controller / On-screen controller<BR><BR>Supported languages:<BR>English(United States)/English(United Kingdom)<BR><BR>Copyright(C) 2015 goodSuM games All Rights Reserved.<BR><BR>Android is a trademark of Google Inc.<BR><BR>]]></description></localizedMeta><localizedMeta locale="en"><description><![CDATA[THIS CONTENT IS NOT COMPATIBLE WITH Android™ DEVICES.<BR><BR>Destroy rocks in this arcade-styled shooter!<BR><BR>* Earn currency to purchase upgrades/shields<BR>* Unlock different afterburner trails<BR>* Timed and survival modes <BR><BR>Package size: 31 MB - More storage space required for install<BR><BR>Compatibility information:<BR>Number of players for local play: 1 Player<BR><BR>Supported interfaces/sensors<BR>- Touchscreen<BR>- Controller / On-screen controller<BR><BR>Supported languages:<BR>English(United States)/English(United Kingdom)<BR><BR>Copyright(C) 2015 goodSuM games All Rights Reserved.<BR><BR>Android is a trademark of Google Inc.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Arcade"/><genre value="Games:Shooter"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_3.png</ratingLogo></rating><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating><rating type="ESRB"><ratingLogo>ESRB_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_2.png</screenShot><screenShot>screenshot_3.png</screenShot><screenShot>screenshot_4.png</screenShot></screenShotList>
+
+</psmMeta>

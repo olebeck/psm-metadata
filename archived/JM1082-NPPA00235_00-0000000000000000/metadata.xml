@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00235_00">
+
+  <appVersion>1.00</appVersion>
+  <runtimeVersion>4.03</runtimeVersion>
+  <packageSize>92215088</packageSize>
+  <localizedMetadataList default_locale="en"><localizedMeta locale="en"><description><![CDATA[THIS CONTENT IS NOT COMPATIBLE WITH Android™ DEVICES.<BR><BR>This game is a puzzle game. There are various colors of the blocks , so that you can turn off the block four to align the block of the same color. "EXP" and "MONEY" and "SCORE" will continue to accumulate in that turn off the block.<BR>This game has two different game modes of "NORMAL" and "LV BURST".<BR>"NORMAL mode" is used to aim at the goal while defeating the enemy .<BR>"LV BURST mode" is used to challenge the LV up to turn off the block . <BR><BR>Package size: 88 MB - More storage space required for install<BR><BR>Compatibility information:<BR>Number of players for local play: 1 Player<BR><BR>Supported interfaces/sensors<BR>- Touchscreen<BR><BR>Supported languages:<BR>Japanese<BR><BR>2014(C) TATSU<BR><BR>Android is a trademark of Google Inc.<BR><BR>]]></description></localizedMeta><localizedMeta locale="ja"><description><![CDATA[このコンテンツはAndroid™端末非対応です。<BR><BR>このゲームはパズルゲームです。様々な色のブロックがあり、同じ色のブロックを4つそろえるとブロックを消すことができます。ブロックを消すことで経験値やお金、スコアがたまっていきます。<BR>このゲームにはノーマルとLVバーストの二種類のゲームモードがあります。<BR>ノーマルモードは、経験値を稼いでレベルを上げて、モンスターを倒しながらゴールを目指すモードです。<BR>LVバーストモードは、ブロックを消してLVをいくつまで上げられるか挑戦するモードです。 <BR><BR>コンテンツ容量: 88 MB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR><BR>対応言語:<BR>日本語<BR><BR>著作権等:<BR>2014(C) TATSU<BR><BR>Android is a trademark of Google Inc.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Puzzle"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_3.png</ratingLogo></rating><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating><rating type="ESRB"><ratingLogo>ESRB_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_1.png</screenShot><screenShot>screenshot_2.png</screenShot><screenShot>screenshot_3.png</screenShot></screenShotList>
+
+</psmMeta>

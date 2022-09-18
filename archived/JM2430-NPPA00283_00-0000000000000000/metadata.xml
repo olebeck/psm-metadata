@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00283_00">
+
+  <appVersion>1.00</appVersion>
+  <runtimeVersion>4.03</runtimeVersion>
+  <packageSize>63884320</packageSize>
+  <localizedMetadataList default_locale="en"><localizedMeta locale="en"><description><![CDATA[THIS CONTENT IS NOT COMPATIBLE WITH Android™ DEVICES.<BR><BR>The theme of this shooter is "Primary Colors". <BR><BR>・6 Modes<BR>・135 Stages<BR>・Beautiful Particle Effects<BR>・Re-designed UI<BR>・Gyroscope Aim (Not Compulsory) <BR><BR>Package size: 61 MB - More storage space required for install<BR><BR>Compatibility information:<BR>Number of players for local play: 1 Player<BR><BR>Supported interfaces/sensors<BR>- Touchscreen<BR>- Controller / On-screen controller<BR>- Motion sensor<BR><BR>Supported languages:<BR>English(United States)/English(United Kingdom)/Japanese<BR><BR>(C) 2015 Hiroki Hoshino<BR><BR>Android is a trademark of Google Inc.<BR><BR>]]></description></localizedMeta><localizedMeta locale="ja"><description><![CDATA[このコンテンツはAndroid™端末非対応です。<BR><BR>原色（Primary Colors）がテーマのシューティングゲームです。<BR><BR>・6のモード<BR>・135のステージ<BR>・美しいパーティクルエフェクト<BR>・再設計されたユーザーインターフェース<BR>・モーションセンサーでのエイム（強制ではありません） <BR><BR>コンテンツ容量: 61 MB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR>- コントローラーまたは、オンスクリーンコントローラー<BR>- モーションセンサー<BR><BR>対応言語:<BR>英語(アメリカ)/英語(イギリス)/日本語<BR><BR>著作権等:<BR>(C) 2015 Hiroki Hoshino<BR><BR>Android is a trademark of Google Inc.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Unique"/><genre value="Games:Shooter"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_3.png</ratingLogo></rating><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating><rating type="ESRB"><ratingLogo>ESRB_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_1.png</screenShot><screenShot>screenshot_2.png</screenShot><screenShot>screenshot_3.png</screenShot><screenShot>screenshot_4.png</screenShot><screenShot>screenshot_5.png</screenShot><screenShot>screenshot_6.png</screenShot><screenShot>screenshot_7.png</screenShot><screenShot>screenshot_8.png</screenShot><screenShot>screenshot_9.png</screenShot><screenShot>screenshot_10.png</screenShot></screenShotList>
+
+</psmMeta>

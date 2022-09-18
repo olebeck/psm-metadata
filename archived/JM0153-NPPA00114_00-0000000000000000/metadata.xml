@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00114_00">
+
+  <appVersion>1.00</appVersion>
+  <runtimeVersion>1.11</runtimeVersion>
+  <packageSize>61324944</packageSize>
+  <localizedMetadataList default_locale="ja"><localizedMeta locale="ja"><description><![CDATA[藤子不二雄（A）の名作『笑ゥせぇるすまん』のパズルゲーム！<BR>「BAR魔の巣」で、喪黒福造と「上海パズル」を楽しもう！<BR><BR>「上海パズル」は、麻雀牌をベースにした定番パズルゲーム。 <BR>スマートフォンならではのタッチ操作、「BAR魔の巣」をイメージしたJAZZ風BGM、喪黒の「ドーン！」音など「笑ゥせぇるすまん」の世界観をお楽しみいただけます。<BR><BR>同じ絵柄の牌を探して消して、クリアを目指そう！<BR>牌の消す順番を間違えると、手詰まりになってしまうから要注意！<BR><BR>全ての牌を消すと、祝福の「ドーン！」が、手詰まりになってしまうとおしおきの「ドーン！」が待っています。全てのお客さまをハッピーエンドに。オーホッホッホッホ！<BR><BR>■特徴 <BR>・全12ストーリー分のステージ <BR>・1ステージにつき3つの難易度<BR>・「BAR魔の巣」をイメージしたJAZZ風BGM<BR>・喪黒福造の「ドーン！」音<BR>・原作をベースにしたカットイン演出<BR><BR>※『上海 Puzzle Game Shanghai』及び『SUNSOFT』は、サン電子株式会社の登録商標です。 <BR>※『上海 Puzzle Game Shanghai』に関する日本国内における全ての権利は、サン電子株式会社が保有しております。 <BR><BR>コンテンツ容量: 59 MB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR><BR>対応言語:<BR>日本語<BR><BR>著作権等:<BR>（C）F･S-E･C<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Puzzle"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_3.png</ratingLogo></rating><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating><rating type="ESRB"><ratingLogo>ESRB_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_1.png</screenShot><screenShot>screenshot_2.png</screenShot><screenShot>screenshot_3.png</screenShot><screenShot>screenshot_4.png</screenShot><screenShot>screenshot_5.png</screenShot></screenShotList>
+
+</psmMeta>

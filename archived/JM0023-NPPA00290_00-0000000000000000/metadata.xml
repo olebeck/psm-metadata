@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00290_00">
+
+  <appVersion>1.00</appVersion>
+  <runtimeVersion>4.03</runtimeVersion>
+  <packageSize>182333680</packageSize>
+  <localizedMetadataList default_locale="ja"><localizedMeta locale="ja"><description><![CDATA[このコンテンツはAndroid™端末非対応です。<BR><BR>日本クリエイター育成協会主催の<BR>「ゲームキャンパスフェス2014」入賞タイトルがPlayStation®Mobileで遂に配信！<BR><BR>■ゲーム概要<BR><BR>このゲームはPlayStation®Vitaを傾けることで"水"をゴールの双葉まで運んで、<BR>成長させて花を咲かせるアクションパズルゲームです。<BR><BR>- 水 -<BR>水(液体)は温度を変化させることによりその状態が変化します。<BR>温度を0度以下にすると氷(固体)に変化し、<BR>温度を100度以上にすると水蒸気(気体)に変化します。<BR>【水】<BR>水は傾けたほうに移動します。<BR>また唯一、双葉を成長させることができます。<BR>【氷】<BR>氷は、氷同士が当たるとくっつき固まります。<BR>固まった形で動かすことができます。<BR>【水蒸気】<BR>水蒸気は、水や氷とは移動する方向が逆になっています。<BR>(水が右下に移動するとき、水蒸気は左上に移動する。)<BR><BR>- ステージ -<BR>ステージは全部で15種あり,ステージクリアにかかった時間とクリア時の残りの水量によってスコアが付きます。<BR><BR>ステージ中に用意されているギミックは、<BR>【炎】<BR>炎は、氷や水をかけて消すことができます。<BR>【鉄板】<BR>鉄板は、炎に熱せられているので、水を一瞬で蒸発させますが、<BR>炎を消すことによって冷めて、水が蒸発しなくなります。<BR>【スポンジ】<BR>スポンジは、水を一定量吸収して大きくなります。<BR>一定量吸収した後や、氷や水蒸気なら吸収されません。<BR>【換気扇】<BR>換気扇は、近くにある水蒸気を集めます。<BR>水蒸気は消えませんが、抜け出すためには水に変化させる必要があります。<BR><BR>その他にも【扉】や【スイッチ】があります。<BR><BR>主催：日本クリエイター育成協会<BR>開発支援：株式会社スマイルブーム/株式会社ブービートラップ<BR>配信・販売協力：株式会社ブービートラップ<BR>プラットフォーム協力：株式会社ソニー・コンピュータエンタテインメント <BR><BR>コンテンツ容量: 174 MB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR>- モーションセンサー<BR><BR>対応言語:<BR>日本語<BR><BR>著作権等:<BR>Niigata Computer College<BR><BR>Android is a trademark of Google Inc.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Puzzle"/><genre value="Games:Action"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_3.png</ratingLogo></rating><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating><rating type="ESRB"><ratingLogo>ESRB_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_1.png</screenShot><screenShot>screenshot_2.png</screenShot><screenShot>screenshot_3.png</screenShot><screenShot>screenshot_4.png</screenShot></screenShotList>
+
+</psmMeta>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00244_00">
+
+  <appVersion>1.00</appVersion>
+  <runtimeVersion>4.03</runtimeVersion>
+  <packageSize>104357760</packageSize>
+  <localizedMetadataList default_locale="ja"><localizedMeta locale="ja"><description><![CDATA[このコンテンツはAndroid™端末非対応です。<BR><BR>■ゲームの内容■<BR><BR>「バグダス - デバッガー検定 -」は開発中のゲームのバグを見つける作業、<BR>いわゆるデバッグ作業が体験できるゲームです。<BR><BR>本作には『架空のゲームの一場面』を収録した問題が8問用意されています。<BR>どの問題にもバグが仕込まれているので、デバッグ作業を行ってバグを発見し、<BR>各問題に設定された課題を達成するとクリアとなります。<BR>全問クリアすると、それまでの成績に応じたあなたのデバッガーランクが表示されます。<BR><BR>※収録されているゲームは全て架空のもので、実在するゲームとは一切関係ありません<BR><BR><BR>■注意点■<BR><BR>本作では、デバッグ作業が初めての方でも問題が解けるように<BR>ヒントを用意しておりますが、デバッグ作業に関連する用語や<BR>バグを出すための手法等の説明は行っておりませんので、ご注意ください。 <BR><BR>コンテンツ容量: 100 MB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- コントローラーまたは、オンスクリーンコントローラー<BR><BR>対応言語:<BR>日本語<BR><BR>著作権等:<BR>© 2015 Jiruo Software<BR><BR>Android is a trademark of Google Inc.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Unique"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_3.png</ratingLogo></rating><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating><rating type="ESRB"><ratingLogo>ESRB_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_2.png</screenShot><screenShot>screenshot_3.png</screenShot><screenShot>screenshot_4.png</screenShot><screenShot>screenshot_5.png</screenShot><screenShot>screenshot_6.png</screenShot><screenShot>screenshot_7.png</screenShot><screenShot>screenshot_8.png</screenShot><screenShot>screenshot_9.png</screenShot></screenShotList>
+
+</psmMeta>

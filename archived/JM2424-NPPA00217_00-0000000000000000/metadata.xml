@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00217_00">
+
+  <appVersion>1.00</appVersion>
+  <runtimeVersion>4.03</runtimeVersion>
+  <packageSize>26141056</packageSize>
+  <localizedMetadataList default_locale="en"><localizedMeta locale="en"><description><![CDATA[THIS CONTENT IS NOT COMPATIBLE WITH Android™ DEVICES.<BR><BR>This is an application that displays the rear camera image like the kaleidoscope.<BR>The image of the surprise can be seen in an easy operation. <BR>Please do a new experience by this application. <BR><BR>Package size: 25 MB - More storage space required for install<BR><BR>Compatibility information:<BR>Number of players for local play: 1 Player<BR><BR>Supported interfaces/sensors<BR>- Controller / On-screen controller<BR>- Camera<BR><BR>Supported languages:<BR>English(United States)<BR><BR>© 2014 Jiruo Software<BR><BR>Android is a trademark of Google Inc.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Apps:Entertainment"/></genreList>
+  <ratingList default="SELF"><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_3.png</screenShot><screenShot>screenshot_6.png</screenShot><screenShot>screenshot_5.png</screenShot><screenShot>screenshot_4.png</screenShot><screenShot>screenshot_7.png</screenShot><screenShot>screenshot_2.png</screenShot></screenShotList>
+
+</psmMeta>

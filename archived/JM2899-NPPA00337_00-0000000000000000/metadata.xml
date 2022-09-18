@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00337_00">
+
+  <appVersion>1.00</appVersion>
+  <runtimeVersion>2.00</runtimeVersion>
+  <packageSize>3527952</packageSize>
+  <localizedMetadataList default_locale="en"><localizedMeta locale="en"><description><![CDATA[THIS CONTENT IS NOT COMPATIBLE WITH Android™ DEVICES.<BR><BR>This is the software to create pixel arts on PlayStation®Vita.<BR><BR>This have  functions of 256 colors palette and layers manager .<BR>You can give more than a passing thought to 16 or 32bit era of nostalgia , or You can make a tidbit of icon.<BR>It depends on you. <BR><BR>Package size: 3446 KB - More storage space required for install<BR><BR>Compatibility information:<BR>Number of players for local play: 1 Player<BR><BR>Supported interfaces/sensors<BR>- Touchscreen<BR>- Controller / On-screen controller<BR><BR>Supported languages:<BR>English(United States)/Japanese<BR><BR>Copyright (C) Levin 2015 All Rights Reserved<BR><BR>Android is a trademark of Google Inc.<BR><BR>]]></description></localizedMeta><localizedMeta locale="ja"><description><![CDATA[このコンテンツはAndroid™端末非対応です。<BR><BR>ドット絵をPlayStation®Vita上で作成するソフトです。<BR><BR>256色パレットやレイヤー機能付きです。<BR>懐かしの16・32bit時代に思いを馳せるも良し、<BR>ちょっとしたアイコンを作るも良し。何を描くかはあなた次第。 <BR><BR>コンテンツ容量: 3446 KB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR>- コントローラーまたは、オンスクリーンコントローラー<BR><BR>対応言語:<BR>英語(アメリカ)/日本語<BR><BR>著作権等:<BR>Copyright (C) Levin 2015 All Rights Reserved<BR><BR>Android is a trademark of Google Inc.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Apps:Utilities"/><genre value="Apps:Productivity"/></genreList>
+  <ratingList default="SELF"><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_1.png</screenShot><screenShot>screenshot_2.png</screenShot><screenShot>screenshot_3.png</screenShot></screenShotList>
+
+</psmMeta>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00141_00">
+
+  <appVersion>1.00</appVersion>
+  <runtimeVersion>1.11</runtimeVersion>
+  <packageSize>11679312</packageSize>
+  <localizedMetadataList default_locale="en"><localizedMeta locale="en"><description><![CDATA["BLOCK BUSTER" is Breakout.A representative of the classic game. There is no such a complex game system. You can enjoy breakout.<BR><BR>A variety of 50 stage, item elements such as multi-bullet and through bullet, different blocks of strength, such as a system of familiar in the block break, you can enjoy easy, anyone with confidence exhilaration break the block. <BR><BR>Package size: 12 MB - More storage space required for install<BR><BR>Compatibility information:<BR>Number of players for local play: 1 Player<BR><BR>Supported interfaces/sensors<BR>- Touchscreen<BR>- Controller / On-screen controller<BR><BR>Supported languages:<BR>English(United States)/Japanese<BR><BR>(c)2013 AQUADIA Co., Ltd.<BR><BR>]]></description></localizedMeta><localizedMeta locale="ja"><description><![CDATA[「BLOCK BUSTER」は定番ゲームの代表格であるブロック崩しです。複雑なゲームシステムなどは一切なく、シンプルにブロック崩しを楽しむことができます。<BR><BR>　多彩な50ステージ、貫通弾やマルチ弾などのアイテム要素、強度の違うブロックなど、ブロック崩しではおなじみのシステムで、ブロックを崩す爽快感を誰もが手軽に、安心して楽しめます。 <BR><BR>コンテンツ容量: 12 MB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR>- コントローラーまたは、オンスクリーンコントローラー<BR><BR>対応言語:<BR>英語(アメリカ)/日本語<BR><BR>著作権等:<BR>(c)2013 AQUADIA Co., Ltd.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Action"/><genre value="Games:Puzzle"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_3.png</ratingLogo></rating><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating><rating type="ESRB"><ratingLogo>ESRB_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_1.png</screenShot><screenShot>screenshot_2.png</screenShot><screenShot>screenshot_3.png</screenShot><screenShot>screenshot_4.png</screenShot><screenShot>screenshot_5.png</screenShot><screenShot>screenshot_6.png</screenShot><screenShot>screenshot_7.png</screenShot><screenShot>screenshot_8.png</screenShot><screenShot>screenshot_9.png</screenShot><screenShot>screenshot_10.png</screenShot></screenShotList>
+
+</psmMeta>

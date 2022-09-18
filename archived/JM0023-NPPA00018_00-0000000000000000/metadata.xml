@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<psmMeta npTitleId="NPPA00018_00">
+ <appVersion>1.00</appVersion>
+ <runtimeVersion>1.00</runtimeVersion>
+ <packageSize>6898464</packageSize>
+ <localizedMetadataList default_locale="en">
+  <localizedMeta locale="ja">
+   <description><![CDATA[南極大陸横断を目指して走り抜ける<br>爽快ランニング＆ジャンピングアクションゲーム！<br><br>シンプルな操作でどこまでも走り続けろ！<br>丘を越え谷を越え、崩れゆく地面を走り抜けて<br><br>コンテンツ容量:6737 KB<br><br>プレイ人数:1人<br><br>対応機能:<br> - タッチスクリーン<br><br>対応言語:<br>英語(アメリカ)/英語(イギリス)/日本語<br><br>著作権等:<br>Copyright (C) 2012 BoobyTrap.,Ltd. All Rights Reserved.<br><br>]]></description>
+  </localizedMeta>
+  <localizedMeta locale="en">
+   <description><![CDATA[Run and jump to make your way across Antarctica in this thrilling, action-packed game! <br><br>Using the simple controls, keep on running and don't look back! Bound over hills and barrel through valleys, but beware of the ground crumbling away at your feet! <br><br>Package size: 6737 KB - More storage space required for install<br><br>Compatibility information: <br>Number of players for local play: 1Player(S)<br><br>Supported interfaces/sensors<br> - Touchscreen<br><br>Supported languages:<br>English(United States)/English(United Kingdom)/Japanese<br><br>Copyright (C) 2012 BoobyTrap.,Ltd. All Rights Reserved.<br><br>]]></description>
+  </localizedMeta>
+  <localizedMeta locale="en_GB">
+   <description><![CDATA[Run and jump to make your way across Antarctica in this thrilling, action-packed game! <br><br>Using the simple controls, keep on running and don't look back! Bound over hills and barrel through valleys, but beware of the ground crumbling away at your feet! <br><br>Package size: 6737 KB - More storage space required for install<br><br>Compatibility information: <br>Number of players for local play: 1Player(S)<br><br>Supported interfaces/sensors<br> - Touchscreen<br><br>Supported languages:<br>English(United States)/English(United Kingdom)/Japanese<br><br>Copyright (C) 2012 BoobyTrap.,Ltd. All Rights Reserved.<br><br>]]></description>
+  </localizedMeta>
+ </localizedMetadataList>
+ <genreList>
+  <genre value="Games:Casual"/>
+ </genreList>
+ <ratingList default="SELF">
+  <rating type="ESRB">
+   <ratingLogo>ESRB_3.png</ratingLogo>
+  </rating>
+  <rating type="PEGIEX">
+   <ratingLogo>PEGIEX_3.png</ratingLogo>
+   <contentDescriptor>PEGIEX_Online.png</contentDescriptor>
+  </rating>
+  <rating type="SELF">
+   <ratingLogo>SELF_3.png</ratingLogo>
+   <contentDescriptor>SELF_Online.png</contentDescriptor>
+  </rating>
+ </ratingList>
+ <screenShotList>
+  <screenShot>screenshot_1.png</screenShot>
+  <screenShot>screenshot_2.png</screenShot>
+  <screenShot>screenshot_3.png</screenShot>
+  <screenShot>screenshot_4.png</screenShot>
+ </screenShotList>
+</psmMeta>

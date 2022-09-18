@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00229_00">
+
+  <appVersion>1.00</appVersion>
+  <runtimeVersion>4.03</runtimeVersion>
+  <packageSize>68707008</packageSize>
+  <localizedMetadataList default_locale="ja"><localizedMeta locale="en_GB"><description><![CDATA[THIS CONTENT IS NOT COMPATIBLE WITH Android™ DEVICES.<BR><BR>The language to support is only Japanese.<BR><BR>This game is 5 short stories.<BR>This game is not contain BGM.<BR>A number of choice is little. <BR><BR>Package size: 66 MB - More storage space required for install<BR><BR>Compatibility information:<BR>Number of players for local play: 1 Player<BR><BR>Supported interfaces/sensors<BR>- Controller / On-screen controller<BR><BR>Supported languages:<BR>Japanese<BR><BR>(C) 2014 SlapStickSoftware<BR><BR>Android is a trademark of Google Inc.<BR><BR>]]></description></localizedMeta><localizedMeta locale="en"><description><![CDATA[THIS CONTENT IS NOT COMPATIBLE WITH Android™ DEVICES.<BR><BR>The language to support is only Japanese.<BR><BR>This game is 5 short stories.<BR>This game is not contain BGM.<BR>A number of choice is little. <BR><BR>Package size: 66 MB - More storage space required for install<BR><BR>Compatibility information:<BR>Number of players for local play: 1 Player<BR><BR>Supported interfaces/sensors<BR>- Controller / On-screen controller<BR><BR>Supported languages:<BR>Japanese<BR><BR>(C) 2014 SlapStickSoftware<BR><BR>Android is a trademark of Google Inc.<BR><BR>]]></description></localizedMeta><localizedMeta locale="ja"><description><![CDATA[このコンテンツはAndroid™端末非対応です。<BR><BR>全５話のオムニバス形式ショートストーリーです。<BR>BGMはありません。<BR>選択肢はほぼなく、<BR>選択肢した結果によってストーリーが大きく変わることはありません。 <BR><BR>コンテンツ容量: 66 MB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- コントローラーまたは、オンスクリーンコントローラー<BR><BR>対応言語:<BR>日本語<BR><BR>著作権等:<BR>(C) 2014 SlapStickSoftware<BR><BR>Android is a trademark of Google Inc.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Adventure"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_3.png</ratingLogo></rating><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating><rating type="ESRB"><ratingLogo>ESRB_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_1.png</screenShot><screenShot>screenshot_3.png</screenShot><screenShot>screenshot_4.png</screenShot><screenShot>screenshot_5.png</screenShot></screenShotList>
+
+</psmMeta>

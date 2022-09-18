@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPNA00122_00">
+
+  <appVersion>1.00</appVersion>
+  <runtimeVersion>1.11</runtimeVersion>
+  <packageSize>13981712</packageSize>
+  <localizedMetadataList default_locale="en"><localizedMeta locale="en"><description><![CDATA[Stop the evil pizza mutants from destroying the universe.  A classic arcade style shooter, survive, destroy the big boss mutant, and rack up those points! <BR><BR>Package size: 14 MB - More storage space required for install<BR><BR>Compatibility information:<BR>Number of players for local play: 1 Player<BR><BR>Supported interfaces/sensors<BR>- Controller / On-screen controller<BR><BR>Supported languages:<BR>English(United States)/English(United Kingdom)<BR><BR>All rights reserved to Timothy Collins.<BR><BR>]]></description></localizedMeta><localizedMeta locale="fr"><description><![CDATA[Arrêtez les mutants de pizza mal de détruire l'univers. Un tireur de style arcade classique, de survivre, de détruire la grande mutant de patron, et accumuler ces points! <BR><BR>Taille du paquet : 14 MB – Nécessite un plus grand espace de stockage pour l’installation<BR><BR>Informations sur la compatibilité :<BR>Nombre de joueurs pour jeu local : 1 joueur<BR><BR>Interfaces/détecteurs pris en charge<BR>- Manette / Manette à l’écran<BR><BR>Langues prises en charge :<BR>Anglais(États-Unis)/Anglais(Royaume-Uni)<BR><BR>All rights reserved to Timothy Collins.<BR><BR>]]></description></localizedMeta><localizedMeta locale="ja"><description><![CDATA[宇宙を破壊する悪ピザ変異体を停止します。古典的なアーケードスタイルのシューティングゲームでは、生き残るビッグボスの変異体を破壊し、それらのポイントをラック！ <BR><BR>コンテンツ容量: 14 MB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- コントローラーまたは、オンスクリーンコントローラー<BR><BR>対応言語:<BR>英語(アメリカ)/英語(イギリス)<BR><BR>著作権等:<BR>All rights reserved to Timothy Collins.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Arcade"/><genre value="Games:Casual"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_12.png</ratingLogo><contentDescriptor>PEGIEX_Violence.png</contentDescriptor></rating><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo><contentDescriptor>SELF_Violence.png</contentDescriptor></rating><rating type="ESRB"><ratingLogo>ESRB_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_1.png</screenShot><screenShot>screenshot_2.png</screenShot><screenShot>screenshot_3.png</screenShot><screenShot>screenshot_4.png</screenShot><screenShot>screenshot_5.png</screenShot></screenShotList>
+
+</psmMeta>

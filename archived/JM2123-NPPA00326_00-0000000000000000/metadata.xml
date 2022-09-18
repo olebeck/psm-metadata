@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00326_00">
+
+  <appVersion>1.00</appVersion>
+  <runtimeVersion>2.00</runtimeVersion>
+  <packageSize>46551424</packageSize>
+  <localizedMetadataList default_locale="ja"><localizedMeta locale="ja"><description><![CDATA[このコンテンツはAndroid™端末非対応です。<BR><BR>【制作者から】<BR><BR>人気次第では、さらに問題が増える予定！<BR><BR>【収録問題数150突破！】<BR><BR>和の世界観を楽しめる「ナンパープレイス」アプリが登場！<BR>激ムズ問題数も続々追加予定です。<BR>序盤はだれでもクリアできる設計なので、パズルゲームが苦手な方もぜひ遊んでください！<BR><BR>【ゲーム紹介】 <BR><BR>9×9マスのマスに数字を埋めよう！！<BR>置ける数字には3つのルールがあるぞ。<BR><BR>１、縦列9マスに同じ数字を入れてはいけない。<BR>２、横列9マスに同じ数字を入れてはいけない。<BR>３、太線で囲まれた3×3マスに同じ数字を入れてはいけない。<BR><BR>全てのマスを正しい数字で埋めて行こう！ <BR><BR>コンテンツ容量: 45 MB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR><BR>対応言語:<BR>日本語<BR><BR>著作権等:<BR>AE Apps<BR><BR>Android is a trademark of Google Inc.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Puzzle"/><genre value="Games:BrainTraining"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_3.png</ratingLogo></rating><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating><rating type="ESRB"><ratingLogo>ESRB_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_2.png</screenShot><screenShot>screenshot_3.png</screenShot><screenShot>screenshot_4.png</screenShot></screenShotList>
+
+</psmMeta>

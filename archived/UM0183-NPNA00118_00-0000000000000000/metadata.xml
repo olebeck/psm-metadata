@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPNA00118_00">
+
+  <appVersion>1.00</appVersion>
+  <runtimeVersion>1.11</runtimeVersion>
+  <packageSize>4978720</packageSize>
+  <localizedMetadataList default_locale="en"><localizedMeta locale="en"><description><![CDATA[A fun addictive game.  Fly through an asteroid field, and find as many glowing pylons as you can.  Before you are killed. <BR><BR>Package size: 4863 KB - More storage space required for install<BR><BR>Compatibility information:<BR>Number of players for local play: 1 Player<BR><BR>Supported interfaces/sensors<BR>- Touchscreen<BR>- Controller / On-screen controller<BR><BR>Supported languages:<BR>English(United States)/English(United Kingdom)<BR><BR>COpyrighted to Timothy Collins<BR><BR>]]></description></localizedMeta><localizedMeta locale="fr"><description><![CDATA[Un jeu amusant addictif. Voler à travers un champ d'astéroïdes, et de trouver autant de pylônes élogieux que vous le pouvez. Avant de vous tuer. <BR><BR>Taille du paquet : 4863 KB – Nécessite un plus grand espace de stockage pour l’installation<BR><BR>Informations sur la compatibilité :<BR>Nombre de joueurs pour jeu local : 1 joueur<BR><BR>Interfaces/détecteurs pris en charge<BR>- Écran tactile<BR>- Manette / Manette à l’écran<BR><BR>Langues prises en charge :<BR>Anglais(États-Unis)/Anglais(Royaume-Uni)<BR><BR>COpyrighted to Timothy Collins<BR><BR>]]></description></localizedMeta><localizedMeta locale="ja"><description><![CDATA[楽しい中毒性のゲーム。小惑星のフィールドを飛ぶ、とすることができますように、多くの熱烈なパイロンとして見つける。あなたが殺される前に。 <BR><BR>コンテンツ容量: 4863 KB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR>- コントローラーまたは、オンスクリーンコントローラー<BR><BR>対応言語:<BR>英語(アメリカ)/英語(イギリス)<BR><BR>著作権等:<BR>COpyrighted to Timothy Collins<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Arcade"/><genre value="Games:Casual"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_3.png</ratingLogo></rating><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating><rating type="ESRB"><ratingLogo>ESRB_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_1.png</screenShot><screenShot>screenshot_2.png</screenShot><screenShot>screenshot_3.png</screenShot><screenShot>screenshot_4.png</screenShot><screenShot>screenshot_5.png</screenShot></screenShotList>
+
+</psmMeta>

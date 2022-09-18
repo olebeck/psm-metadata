@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00218_00">
+
+  <appVersion>1.00</appVersion>
+  <runtimeVersion>1.21</runtimeVersion>
+  <packageSize>320597232</packageSize>
+  <localizedMetadataList default_locale="ja"><localizedMeta locale="ja"><description><![CDATA[感動のオリジナル恋愛アドベンチャーゲーム<BR>『Fragment's Note』シリーズの最新作は、<BR>第一作目『Fragment's Note』のアフターストーリー集！<BR><BR>『Fragment's Note』のヒロイン達と再び紡ぐ、<BR>後日譚にして新たな始まりの物語が、満を持して登場！<BR><BR><BR>【ゲーム概要】<BR><BR>本作は、感動のオリジナルアドベンチャーゲーム『Fragment's Note』の<BR>後日譚となる、オリジナル学園恋愛ビジュアルノベルゲーム（ギャルゲー）です。<BR><BR>『Fragment's Note』の三人のヒロイン達とのエンディングを迎えた後の、<BR>主人公・天条悠輝葉とそれぞれのヒロイン達の、その後の物語が描かれます。<BR><BR>本作には選択肢はなく、テキストを読み進めることでゲームが進行していきます。<BR><BR>※『Fragment's Note』のエンディング後のストーリーとなりますので、<BR>　『Fragment's Note』をクリアいただいた後にお楽しみください。<BR><BR><BR>【お知らせ】<BR><BR>『Fragment's Note』シリーズ４作品、好評配信中！<BR><BR>『Fragment's Note』シリーズの最新情報は<BR>公式Twitterアカウント（@UxA_ADV）をチェック！ <BR><BR>コンテンツ容量: 306 MB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR>- コントローラーまたは、オンスクリーンコントローラー<BR><BR>対応言語:<BR>日本語<BR><BR>著作権等:<BR>(C)2014 ULLUCUS HEAVEN Inc.／(C)2014 ALVION Inc.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Adventure"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_3.png</ratingLogo><contentDescriptor>PEGIEX_Sex.png</contentDescriptor></rating><rating type="SELF"><ratingLogo>SELF_16.png</ratingLogo><contentDescriptor>SELF_Sex.png</contentDescriptor></rating><rating type="ESRB"><ratingLogo>ESRB_17.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_2.png</screenShot><screenShot>screenshot_3.png</screenShot><screenShot>screenshot_4.png</screenShot><screenShot>screenshot_5.png</screenShot><screenShot>screenshot_6.png</screenShot></screenShotList>
+
+</psmMeta>

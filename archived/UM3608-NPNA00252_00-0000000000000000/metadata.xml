@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPNA00252_00">
+
+  <appVersion>1.00</appVersion>
+  <runtimeVersion>4.03</runtimeVersion>
+  <packageSize>99494816</packageSize>
+  <localizedMetadataList default_locale="en"><localizedMeta locale="en"><description><![CDATA[THIS CONTENT IS NOT COMPATIBLE WITH Android™ DEVICES.<BR><BR>In Mussoumano Saving the Latifas the most crazy rapper from Youtube Brasil had his beloved girls captured by the haters and trolls of the Mamilos Molengas channel while he was playing videogame.<BR><BR>The adventure is complete in this frenetic platform runner game with 3D graphics where the player has the help of mounts like a Camel, a Flying Carpet, a Magic Cloud and the amazing and customizable Armored Camel.<BR><BR>You can evolve your Armored Camel earning experience and getting higher levels to equip it with a variety of armors, weapons and special items that will help you save all the Mussoumano’s girls.<BR><BR>Besides customizing the Armored Camel you can also change Mussoumano’s outfit choosing more than 800 visuals with different hats and clothes. <BR><BR>Package size: 95 MB - More storage space required for install<BR><BR>Compatibility information:<BR>Number of players for local play: 1 Player<BR><BR>Supported interfaces/sensors<BR>- Touchscreen<BR>- Controller / On-screen controller<BR><BR>Supported languages:<BR>English(United States)/Portuguese(Brazil)<BR><BR>2015 (C) Maqna Interactive Ltda - Me.<BR><BR>Android is a trademark of Google Inc.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Arcade"/><genre value="Games:Casual"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_3.png</ratingLogo><contentDescriptor>PEGIEX_Violence.png</contentDescriptor></rating><rating type="SELF"><ratingLogo>SELF_12.png</ratingLogo><contentDescriptor>SELF_Violence.png</contentDescriptor></rating><rating type="ESRB"><ratingLogo>ESRB_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_1.png</screenShot><screenShot>screenshot_2.png</screenShot><screenShot>screenshot_3.png</screenShot><screenShot>screenshot_4.png</screenShot><screenShot>screenshot_5.png</screenShot></screenShotList>
+
+</psmMeta>

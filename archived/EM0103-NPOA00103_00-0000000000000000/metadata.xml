@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPOA00103_00">
+
+  <appVersion>1.00</appVersion>
+  <runtimeVersion>1.00</runtimeVersion>
+  <packageSize>11417088</packageSize>
+  <localizedMetadataList default_locale="en"><localizedMeta locale="en"><description><![CDATA[Meltdown Moon is a puzzle action game in which you must solve the infinite moon puzzle while avoiding incoming asteroids and catch the falling stars! Play in two games modes and try to get the high score!<BR><BR>In CLASSIC MODE last as long as you can against ever more numerous waves of asteroids. Can you reach level 100 and get a high score?<BR><BR>In MOONFALL MODE race against the clock to clear the falling moons to replenish your time and earn big points! <BR><BR>Package size: 11 MB - More storage space required for install<BR><BR>Compatibility information:<BR>Number of players for local play: 1 Player<BR><BR>Supported interfaces/sensors<BR>- Controller / On-screen controller<BR><BR>Supported languages:<BR>English(United States)/English(United Kingdom)<BR><BR>Copyright (C) 2012 TACS games. All Rights Reserved.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Action"/><genre value="Games:Shooter"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_3.png</ratingLogo></rating><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating><rating type="ESRB"><ratingLogo>ESRB_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_1.png</screenShot><screenShot>screenshot_2.png</screenShot><screenShot>screenshot_3.png</screenShot><screenShot>screenshot_4.png</screenShot></screenShotList>
+
+</psmMeta>

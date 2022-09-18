@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00230_00">
+
+  <appVersion>1.00</appVersion>
+  <runtimeVersion>4.03</runtimeVersion>
+  <packageSize>82578912</packageSize>
+  <localizedMetadataList default_locale="ja"><localizedMeta locale="ja"><description><![CDATA[このコンテンツはAndroid™端末非対応です。<BR><BR>世界は今、滅亡に瀕していた・・・<BR>｢人類｣なる凶悪な魔族がいずこからか現れ、世界をほぼその手中に収めつつあった。<BR>森を焼き、水と空を汚し、その横暴は目にあまるものがあった。<BR>このままでは彼らにこの世界が滅ぼされる日もそう遠くはないであろう・・・<BR><BR>そして敵意をもたない我々も彼らはその刃を向けてきた。<BR>たいした戦闘力をもたない我々ただ滅びを待つだけであった。<BR>だが、あるときささいな偶然から、我々が人類の体の中に入ると、彼らの体を乗っ取ることができるということがわかった。<BR><BR>スライムたちの逆襲がはじまった。<BR><BR>【概要】<BR>流れはオーソドックスなターン制のシミュレーションRPGです。<BR>ただしあなたが操作するのはスライム。<BR>そしてこのスライムは、敵を乗っ取ってその敵を自由に操れるという特徴を持っています。<BR><BR>弓兵を乗っ取れば弓を使えますし、魔法使いを乗っ取れば魔法が使えます。<BR>あるいは商人を乗っ取れば、わいろで敵を惑わせることもできます。<BR><BR>またスライムにも多くの種類が存在し、ワープできるもの、乗っ取った敵の能力を上げるもの、乗っ取りが難しい敵も確実に乗っ取れるものなど様々です。<BR><BR>どのスライムで、どの敵を乗っ取るか？<BR>またどうやって乗っ取るか？<BR>数多くの戦術を立てることができ、そしてそれが攻略に非常に重要な要素となっています。<BR>やみくもに突撃するだけでは勝てません。<BR>あなたの立てる戦術が非常に重要になってきます。<BR>是非、この新しい感覚をもったタクティクスシミュレーションに挑戦してみてください！ <BR><BR>コンテンツ容量: 79 MB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR>- コントローラーまたは、オンスクリーンコントローラー<BR><BR>対応言語:<BR>日本語<BR><BR>著作権等:<BR>Copyright(C) 2014 altairworks.<BR><BR>Android is a trademark of Google Inc.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Simulation"/><genre value="Games:Strategy"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_12.png</ratingLogo><contentDescriptor>PEGIEX_Violence.png</contentDescriptor></rating><rating type="SELF"><ratingLogo>SELF_16.png</ratingLogo><contentDescriptor>SELF_Violence.png</contentDescriptor><contentDescriptor>SELF_Sex.png</contentDescriptor></rating><rating type="ESRB"><ratingLogo>ESRB_13.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_2.png</screenShot><screenShot>screenshot_3.png</screenShot><screenShot>screenshot_4.png</screenShot><screenShot>screenshot_5.png</screenShot><screenShot>screenshot_6.png</screenShot><screenShot>screenshot_7.png</screenShot><screenShot>screenshot_8.png</screenShot><screenShot>screenshot_9.png</screenShot></screenShotList>
+
+</psmMeta>

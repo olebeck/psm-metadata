@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00181_00">
+
+  <appVersion>1.00</appVersion>
+  <runtimeVersion>1.21</runtimeVersion>
+  <packageSize>61908928</packageSize>
+  <localizedMetadataList default_locale="ja"><localizedMeta locale="ja"><description><![CDATA[NHKの人気キャラクター、タマゴから生まれたへんてこないきものの<BR>「どーもくん」がクッキー落としゲームになった！<BR><BR>登録不要の無料ゲーム「どーもくんクッキーアイランド」がPlayStation Mobileに登場！<BR>3Dグラフィックで再現されたどーもくんのスペシャル演出でクッキーをたくさんGETしよう！<BR><BR>操作はとっても簡単。画面をタップしてクッキーを落とすだけ。<BR>たまに登場する「スロットクッキー」や「ウォールクッキー」<BR>「図鑑クッキー」を落とせると、様々なイベントが発生します。<BR><BR><BR>「スロットクッキー」…画面奥にあるスロットマシンが回転し、<BR>絵柄がそろえばスペシャル演出でクッキー大量獲得のチャンス！<BR><BR>「ウォールクッキー」…ステージ左右にある溝に、<BR>壁が出現するよ。ステージ上のクッキーを根こそぎGET!<BR><BR>「図鑑クッキー」…「図鑑クッキー」を落とすと、ヒストリー図鑑を<BR>埋めることができるよ。全38種類のヒストリー図鑑をコンプリートしよう！<BR><BR><BR>■特徴： <BR>・すぐ遊べる！登録不要の無料ゲーム<BR>・どーもくんを美麗3Dグラフィックで再現<BR>・クッキーがなくなっても、時間が経つと50枚まで回復するよ！<BR>・スロットでどーもくんの絵が揃えば、スペシャル演出でクッキーを大量GET!<BR>・図鑑クッキーをGETしてヒストリー図鑑のコンプリートを目指せ！<BR>・難しい時は、クッキーやSPアイテムを購入することもできるよ！<BR>・プレミアムな「ジャックポットクッキー」を落としたらスペシャル演出確定!? <BR><BR>コンテンツ容量: 60 MB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR><BR>対応言語:<BR>日本語<BR><BR>著作権等:<BR>(C)NHK・TYO / (C)Sony Digital Entertainment<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Casual"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_3.png</ratingLogo></rating><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating><rating type="ESRB"><ratingLogo>ESRB_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_2.png</screenShot><screenShot>screenshot_3.png</screenShot><screenShot>screenshot_4.png</screenShot><screenShot>screenshot_5.png</screenShot><screenShot>screenshot_6.png</screenShot></screenShotList>
+
+</psmMeta>

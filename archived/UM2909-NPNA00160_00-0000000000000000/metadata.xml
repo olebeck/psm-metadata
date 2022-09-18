@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPNA00160_00">
+
+  <appVersion>1.00</appVersion>
+  <runtimeVersion>1.21</runtimeVersion>
+  <packageSize>21948416</packageSize>
+  <localizedMetadataList default_locale="en"><localizedMeta locale="en"><description><![CDATA[Princess Fee always dreamed of a life full of adventure. As a mysterious dragon begins to attack her kingdom, Fee seizes the chance to chase this dream. Armed with nothing but a magical orb of protection and her wit, Fee is determined to defend her kingdom. Together with the snow princess Olivia and the princess sisters Dorothy and Monica, they must overcome the challenges of the dragon's castle!<BR><BR>- Use the power of tilt to help the four princesses maneuver their orbs through the deadly traps of the dragon's castle!<BR><BR>- Help the princesses band together to solve cooperative puzzles!<BR><BR>- Experience a thrilling story of overcoming differences set to an immersive soundtrack! <BR><BR>Package size: 21 MB - More storage space required for install<BR><BR>Compatibility information:<BR>Number of players for local play: 1 Player<BR><BR>Supported interfaces/sensors<BR>- Touchscreen<BR>- Controller / On-screen controller<BR>- Motion sensor<BR><BR>Supported languages:<BR>English(United States)<BR><BR>Â© 2014 Evil Block Studios LLP. All rights reserved.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Puzzle"/><genre value="Games:Adventure"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_3.png</ratingLogo></rating><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating><rating type="ESRB"><ratingLogo>ESRB_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_2.png</screenShot><screenShot>screenshot_3.png</screenShot><screenShot>screenshot_4.png</screenShot></screenShotList>
+
+</psmMeta>

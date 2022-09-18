@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00117_00">
+
+  <appVersion>1.00</appVersion>
+  <runtimeVersion>1.11</runtimeVersion>
+  <packageSize>19891392</packageSize>
+  <localizedMetadataList default_locale="ja"><localizedMeta locale="ja"><description><![CDATA[ぐらぐら揺れるバーバパパの上にアイテムをたくさん乗せよう！<BR>バーバファミリーを乗せると高得点だよ！<BR><BR>『ぐらぐらBARBAPAPA』は、お皿、船など、さまざまな形に変化したバーバパパの上に、アイテムを乗せていく積み上げバランスゲームです。<BR>バーバパパの世界観を楽しみながら、大人から子どもまで簡単に遊ぶことができます。<BR><BR>【ゲームの特徴】<BR>・遊び方は簡単！アイテムをタッチして、バーバパパの上へスライドするだけ！<BR>・バーバパパの形、積み上げるアイテム、BGMはステージによって変わります。<BR>・STGAE1「おいしいケーキ」STAGE2「海のお船」は無料です。<BR>・他ステージも続々配信予定！制限時間内でハイスコアを目指そう！<BR><BR>【ゲームのヒント】<BR>アイテムに変化したバーバファミリーたちは高得点です。<BR>できるだけファミリーたちを落とさないように効率良く積んでいこう！ <BR><BR>コンテンツ容量: 19 MB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR><BR>対応言語:<BR>日本語<BR><BR>著作権等:<BR>© 2013 A.T. &amp; T.T.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Casual"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_3.png</ratingLogo></rating><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating><rating type="ESRB"><ratingLogo>ESRB_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_1.png</screenShot><screenShot>screenshot_2.png</screenShot><screenShot>screenshot_3.png</screenShot><screenShot>screenshot_4.png</screenShot><screenShot>screenshot_5.png</screenShot></screenShotList>
+
+</psmMeta>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00224_00">
+
+  <appVersion>1.00</appVersion>
+  <runtimeVersion>2.00</runtimeVersion>
+  <packageSize>2883360</packageSize>
+  <localizedMetadataList default_locale="ja"><localizedMeta locale="ja"><description><![CDATA[このコンテンツはAndroid™端末非対応です。<BR><BR>このゲームは立方体の面の色をそろえるゲームです。<BR>１辺あたり３個の立方体からできてきます。<BR>タッチスクリーンだけでなく、コントローラーでも<BR>快適な操作が可能になっています。<BR><BR>立方体を回転させながら色をそろえましょう。 <BR><BR>コンテンツ容量: 2816 KB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR>- コントローラーまたは、オンスクリーンコントローラー<BR><BR>対応言語:<BR>デンマーク語/ドイツ語/英語(アメリカ)/英語(イギリス)/スペイン語/フランス語/イタリア語/オランダ語/ノルウェー語/ポーランド語/ポルトガル語(ポルトガル)/ポルトガル語(ブラジル)/ロシア語/フィンランド語/スウェーデン語/日本語/韓国語/中国語(簡体字)/中国語(繁体字)<BR><BR>著作権等:<BR>(C) MMA<BR><BR>Android is a trademark of Google Inc.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Puzzle"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_3.png</ratingLogo></rating><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating><rating type="ESRB"><ratingLogo>ESRB_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_2.png</screenShot><screenShot>screenshot_3.png</screenShot><screenShot>screenshot_4.png</screenShot><screenShot>screenshot_5.png</screenShot></screenShotList>
+
+</psmMeta>

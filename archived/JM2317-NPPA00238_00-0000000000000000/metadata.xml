@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00238_00">
+
+  <appVersion>1.00</appVersion>
+  <runtimeVersion>2.00</runtimeVersion>
+  <packageSize>53037280</packageSize>
+  <localizedMetadataList default_locale="ja"><localizedMeta locale="ja"><description><![CDATA[このコンテンツはAndroid™端末非対応です。<BR><BR>強制の知識[agRAVe（エイジレイブ）]の物語[漫画]を課題[ゲーム]を通して体験し読み進めます。<BR>ゲームは６ボタン＋十字入力アクション、さらに白か黒か色違い認識[認色（にんしき）]の素早い判断が必要なアクション系。<BR>すべての知識[RAV]を手にしましょう。<BR><BR>「デモプラ」選択可能項目<BR>・物語：１話＋１課題<BR>・課題対戦：１キャラ＆ステージ（記録はできません）<BR>「デモプラ」内で使用可能な新機能[＋]。<BR>・[＋]モード：「調整版」の「啓示」が使用可能。<BR>・[＋]アシスト：体力０でも中断しません。（オプション）<BR><BR>その他の仕様<BR>・６ボタン＋右スティック（十字扱い）キーコンフィグ<BR>・簡素なリプレイ機能<BR>・課題達成率（Ｌｖと最大ＨＩＴ数）<BR><BR>ゲーム説明・文章・サポート対応は日本語になります。 <BR><BR>コンテンツ容量: 51 MB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- コントローラーまたは、オンスクリーンコントローラー<BR><BR>対応言語:<BR>日本語<BR><BR>著作権等:<BR>(c) AGrave 2014.<BR><BR>Android is a trademark of Google Inc.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Action"/><genre value="Games:Arcade"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_12.png</ratingLogo><contentDescriptor>PEGIEX_Language.png</contentDescriptor><contentDescriptor>PEGIEX_Violence.png</contentDescriptor></rating><rating type="SELF"><ratingLogo>SELF_16.png</ratingLogo><contentDescriptor>SELF_Fear.png</contentDescriptor><contentDescriptor>SELF_Language.png</contentDescriptor><contentDescriptor>SELF_Violence.png</contentDescriptor><contentDescriptor>SELF_Sex.png</contentDescriptor></rating><rating type="ESRB"><ratingLogo>ESRB_13.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_1.png</screenShot><screenShot>screenshot_13.png</screenShot><screenShot>screenshot_4.png</screenShot><screenShot>screenshot_5.png</screenShot><screenShot>screenshot_6.png</screenShot><screenShot>screenshot_7.png</screenShot><screenShot>screenshot_8.png</screenShot><screenShot>screenshot_10.png</screenShot><screenShot>screenshot_11.png</screenShot></screenShotList>
+
+</psmMeta>

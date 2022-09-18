@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00189_00">
+
+  <appVersion>1.00</appVersion>
+  <runtimeVersion>1.21</runtimeVersion>
+  <packageSize>36845040</packageSize>
+  <localizedMetadataList default_locale="ja"><localizedMeta locale="ja"><description><![CDATA[ひたすらタップして戦うシンプルバトルRPG。<BR>タップしてアビリティポイントをためてパワーアップしたり仲間を呼んだり必殺技で大ダメージ！<BR>次々と現れるモンスターにダメージを与えて最後に待ち構えているドラゴンとの戦いに挑戦しましょう！ <BR><BR>コンテンツ容量: 36 MB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR>- コントローラーまたは、オンスクリーンコントローラー<BR><BR>対応言語:<BR>日本語<BR><BR>著作権等:<BR>KOBITO STUDIO<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:RPG"/><genre value="Games:Unique"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_12.png</ratingLogo><contentDescriptor>PEGIEX_Violence.png</contentDescriptor></rating><rating type="SELF"><ratingLogo>SELF_12.png</ratingLogo><contentDescriptor>SELF_Violence.png</contentDescriptor></rating><rating type="ESRB"><ratingLogo>ESRB_10.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_1.png</screenShot><screenShot>screenshot_2.png</screenShot><screenShot>screenshot_3.png</screenShot></screenShotList>
+
+</psmMeta>

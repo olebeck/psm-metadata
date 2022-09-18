@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00277_00">
+
+  <appVersion>1.00</appVersion>
+  <runtimeVersion>2.00</runtimeVersion>
+  <packageSize>132546112</packageSize>
+  <localizedMetadataList default_locale="ja"><localizedMeta locale="ja"><description><![CDATA[このコンテンツはAndroid™端末非対応です。<BR><BR>少女は強化スーツを身にまとい戦場を駆け抜ける！<BR>名作パワードールの遺伝子を受け継ぐ新作アクションゲーム！<BR><BR>【ゲーム紹介】<BR><BR>▼テロリストを排除せよ！<BR>主人公イリス・グリーンに課せられた任務は、研究所に侵入したテロリストを排除し、盗まれた機密情報を取り戻すことだ！<BR>全８ステージを戦い抜き、待ち受けるボスを倒せ！<BR><BR>▼武器をパワーアップさせよう！<BR>使える武器はどれもポイントを貯めて、パワーアップさせることができるぞ！<BR>自分のプレイスタイルに合った武器を見つけ、どんどん威力を上げていこう！<BR><BR>▼より困難な任務に挑め！<BR>敵の猛攻が襲いくるハードモードに挑戦して、見事生還せよ！<BR><BR><BR>【公式情報】<BR>気になる世界観はこちらでチェック！<BR>http://bears-studio.com/works/valiantdolls/ <BR><BR>コンテンツ容量: 127 MB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR>- コントローラーまたは、オンスクリーンコントローラー<BR><BR>対応言語:<BR>日本語<BR><BR>著作権等:<BR>Copyright 2015 KOGADO STUDIO,Inc. All Rights Reserved.<BR><BR>Android is a trademark of Google Inc.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Action"/><genre value="Games:Shooter"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_12.png</ratingLogo><contentDescriptor>PEGIEX_Language.png</contentDescriptor><contentDescriptor>PEGIEX_Violence.png</contentDescriptor></rating><rating type="SELF"><ratingLogo>SELF_12.png</ratingLogo><contentDescriptor>SELF_Language.png</contentDescriptor><contentDescriptor>SELF_Violence.png</contentDescriptor></rating><rating type="ESRB"><ratingLogo>ESRB_13.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_1.png</screenShot><screenShot>screenshot_2.png</screenShot><screenShot>screenshot_3.png</screenShot><screenShot>screenshot_4.png</screenShot><screenShot>screenshot_5.png</screenShot></screenShotList>
+
+</psmMeta>

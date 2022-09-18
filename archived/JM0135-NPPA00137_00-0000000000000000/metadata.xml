@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00137_00">
+
+  <appVersion>1.00</appVersion>
+  <runtimeVersion>1.11</runtimeVersion>
+  <packageSize>6123248</packageSize>
+  <localizedMetadataList default_locale="ja"><localizedMeta locale="ja"><description><![CDATA[かっこいいクールな2ch専用ブラウザの登場だ！<BR>特に、PlayStation®Vitaでの操作時には、ボタン操作に最適化したその操作性は、直感的かつフィーリングー！その他カラーテーマ機能にも対応！カッコイイカラーテーマでヴィッ友（PS Vita友達）に差を付けちゃおう！レッツゲッ友！今後のバージョンナップにて新機能続々追加予定！ <BR><BR>コンテンツ容量: 5980 KB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR>- コントローラーまたは、オンスクリーンコントローラー<BR>- モーションセンサー<BR><BR>対応言語:<BR>日本語<BR><BR>著作権等:<BR>Copyright (C) 2013 HAGE SOFT Inc. All Rights Reserved.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Apps:Communication"/></genreList>
+  <ratingList default="SELF"><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_16.png</screenShot><screenShot>screenshot_17.png</screenShot><screenShot>screenshot_18.png</screenShot><screenShot>screenshot_19.png</screenShot><screenShot>screenshot_20.png</screenShot><screenShot>screenshot_21.png</screenShot></screenShotList>
+
+</psmMeta>

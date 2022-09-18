@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPNA00161_00">
+
+  <appVersion>1.00</appVersion>
+  <runtimeVersion>1.21</runtimeVersion>
+  <packageSize>28191104</packageSize>
+  <localizedMetadataList default_locale="en"><localizedMeta locale="en"><description><![CDATA[Help construct the universe after the Big Bang while learning actual planet compositions in this exciting and original, educational, (potentially) gyroscopic, first-person planet-building game. <BR><BR>Package size: 27 MB - More storage space required for install<BR><BR>Compatibility information:<BR>Number of players for local play: 1 Player<BR><BR>Supported interfaces/sensors<BR>- Touchscreen<BR>- Controller / On-screen controller<BR>- Motion sensor<BR><BR>Supported languages:<BR>English(United States)<BR><BR>© 2014 Utah Game Forge<BR><BR>]]></description></localizedMeta><localizedMeta locale="fr_CA"><description><![CDATA[Aider à construire l'univers après le Big Bang tout en apprenant compositions planète réels dans ce gyroscopique passionnant et original, éducatif, (potentiellement), à la première personne jeu de construction de la planète. <BR><BR>Taille du programme : 27 Mo - Plus d’espace de stockage est requis pour l’installation<BR><BR>Information sur la compatibilité :<BR>Nombre de joueurs pour le jeu local : 1 joueur<BR><BR>Interfaces / capteurs compatibles<BR>- Écran tactile<BR>- Manette / Manette d’écran<BR>- Détection de mouvements<BR><BR>Langues prises en charge :<BR>Anglais(États-Unis)<BR><BR>© 2014 Utah Game Forge<BR><BR>]]></description></localizedMeta><localizedMeta locale="ja"><description><![CDATA[この刺激的でオリジナルの、教育、（潜在的に）ジャイロスコープ、一人称惑星建物のゲームで、実際の惑星の組成を学びながらビッグバン後の宇宙を構築するのに役立ちます。 <BR><BR>コンテンツ容量: 27 MB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR>- コントローラーまたは、オンスクリーンコントローラー<BR>- モーションセンサー<BR><BR>対応言語:<BR>英語(アメリカ)<BR><BR>著作権等:<BR>© 2014 Utah Game Forge<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Educational"/><genre value="Games:Casual"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_12.png</ratingLogo><contentDescriptor>PEGIEX_Language.png</contentDescriptor></rating><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating><rating type="ESRB"><ratingLogo>ESRB_10.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_1.png</screenShot><screenShot>screenshot_2.png</screenShot><screenShot>screenshot_3.png</screenShot><screenShot>screenshot_4.png</screenShot></screenShotList>
+
+</psmMeta>

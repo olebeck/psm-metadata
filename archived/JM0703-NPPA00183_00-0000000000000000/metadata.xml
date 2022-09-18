@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00183_00">
+
+  <appVersion>1.00</appVersion>
+  <runtimeVersion>1.21</runtimeVersion>
+  <packageSize>54838544</packageSize>
+  <localizedMetadataList default_locale="ja"><localizedMeta locale="ja"><description><![CDATA[小説を読むよりも手軽に、テレビを見るよりもアクティブにミステリーの雰囲気が味わえる！<BR><BR>ある事件の捜査で、両目の視力を失うことになった、柊沙羅。<BR>警察官を辞め、行き着いた先は、とある探偵事務所だった。<BR>心晴れない日々を送っていたが、ある殺人事件の捜査を協力することに。<BR>柊沙羅の止まった時間が再び動き始めようとしていた……<BR><BR>●　タイムラインメッセージで一風変わった、アドベンチャーゲームスタイル<BR>　アドベンチャーゲームに従来用いられてきた、ウインドウ型のメッセージシステムではなく、コミュニケーションツールで多く採用されている、タイムライン表示を採用。<BR><BR>　ストーリーを進めた後の読み返しなども行いやすく読みやすい。今までにない感覚で、アドベンチャーゲームを楽しむことができます。<BR><BR>●　主人公と一緒になって犯人を考える、人物相関図ボードシステム<BR>　刑事ドラマなどでよく見る、人物相関図を埋めていくことで、プレイヤーは事件概要を推理しながらストーリーを進めていくことができます。<BR>　一つ一つ、人物の相関関係を埋めていくことで、事件の全体像をつかむことができます。<BR><BR>●　短い時間でお手軽にミステリー雰囲気を楽しめる<BR>本格推理というと、少し敷居は高く感じて、手にとりにくい。でも、ミステリーの雰囲気は味わいたい。そんな方にはお勧めのアドベンチャーゲーム。 <BR><BR>コンテンツ容量: 53 MB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR>- コントローラーまたは、オンスクリーンコントローラー<BR><BR>対応言語:<BR>日本語<BR><BR>著作権等:<BR>(c)2014 AQUADIA Co., Ltd.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Adventure"/><genre value="Games:Puzzle"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_16.png</ratingLogo></rating><rating type="SELF"><ratingLogo>SELF_16.png</ratingLogo><contentDescriptor>SELF_Violence.png</contentDescriptor></rating><rating type="ESRB"><ratingLogo>ESRB_10.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_1.png</screenShot><screenShot>screenshot_2.png</screenShot><screenShot>screenshot_3.png</screenShot><screenShot>screenshot_4.png</screenShot><screenShot>screenshot_5.png</screenShot><screenShot>screenshot_6.png</screenShot><screenShot>screenshot_7.png</screenShot></screenShotList>
+
+</psmMeta>

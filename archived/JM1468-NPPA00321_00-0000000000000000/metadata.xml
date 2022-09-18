@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00321_00">
+
+  <appVersion>1.00</appVersion>
+  <runtimeVersion>2.00</runtimeVersion>
+  <packageSize>17361120</packageSize>
+  <localizedMetadataList default_locale="ja"><localizedMeta locale="ja"><description><![CDATA[このコンテンツはAndroid™端末非対応です。<BR><BR>[ゲーム概要]<BR>目が覚めたら知らない家。<BR>自分が捉われた理由、どこか違和感のある不気味な家。<BR>なにもかもが分からない状態で、閉鎖された空間からの脱出を目指す。<BR><BR>・ジャンル：ホラーADV<BR>・想定プレイ時間：約20分～1時間想定 <BR><BR>コンテンツ容量: 17 MB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR>- コントローラーまたは、オンスクリーンコントローラー<BR><BR>対応言語:<BR>日本語<BR><BR>著作権等:<BR>Copyright (C) 2015 Max Neet Games<BR><BR>Android is a trademark of Google Inc.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Horror"/><genre value="Games:Adventure"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_16.png</ratingLogo><contentDescriptor>PEGIEX_Language.png</contentDescriptor><contentDescriptor>PEGIEX_Fear.png</contentDescriptor><contentDescriptor>PEGIEX_Violence.png</contentDescriptor></rating><rating type="SELF"><ratingLogo>SELF_16.png</ratingLogo><contentDescriptor>SELF_Fear.png</contentDescriptor><contentDescriptor>SELF_Language.png</contentDescriptor><contentDescriptor>SELF_Violence.png</contentDescriptor></rating><rating type="ESRB"><ratingLogo>ESRB_17.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_5.png</screenShot><screenShot>screenshot_6.png</screenShot><screenShot>screenshot_7.png</screenShot></screenShotList>
+
+</psmMeta>

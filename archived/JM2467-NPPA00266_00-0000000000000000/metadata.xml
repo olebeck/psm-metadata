@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00266_00">
+
+  <appVersion>1.00</appVersion>
+  <runtimeVersion>4.03</runtimeVersion>
+  <packageSize>96770400</packageSize>
+  <localizedMetadataList default_locale="ja"><localizedMeta locale="ja"><description><![CDATA[このコンテンツはAndroid™端末非対応です。<BR><BR>船で遭難した少年リュースの、ふしぎな島でのふしぎな冒険のゲームです。<BR><BR>島に住むかわいい「こびと」たちと協力して、ステージをクリアしましょう！<BR><BR>こびとを投げたりタッチで動かしたりして、敵を攻撃します。<BR><BR>先に進めないところでは、近くにあるクリスタルにこびとを触らせてみましょう。<BR><BR>きっと何かが起こるはずです。<BR><BR>初期バージョンでは「チュートリアル」と「ステージ１」を収録しました。<BR><BR>今後、バージョンアップでステージ等を追加します！<BR><BR>アクション操作説明<BR><BR>方向キー / 左スティック：左右で移動（長押しでダッシュ）<BR><BR>右スティック：上下でこびとを投げる角度を変更<BR><BR>さんかく（△）ボタン：こびとを集合させる<BR><BR>Lボタン：ジャンプ<BR><BR>Rボタン：こびとを投げる（長押しで連続で投げる）<BR><BR>　指でタップ：花からこびとを出す、こびとを移動させる、各種ボタンの決定 <BR><BR>コンテンツ容量: 93 MB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR>- コントローラーまたは、オンスクリーンコントローラー<BR><BR>対応言語:<BR>日本語<BR><BR>著作権等:<BR>Little Human<BR><BR>Android is a trademark of Google Inc.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Action"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_3.png</ratingLogo></rating><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating><rating type="ESRB"><ratingLogo>ESRB_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_1.png</screenShot><screenShot>screenshot_4.png</screenShot><screenShot>screenshot_2.png</screenShot></screenShotList>
+
+</psmMeta>

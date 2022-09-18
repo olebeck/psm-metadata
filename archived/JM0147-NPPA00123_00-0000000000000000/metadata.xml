@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00123_00">
+
+  <appVersion>1.00</appVersion>
+  <runtimeVersion>1.11</runtimeVersion>
+  <packageSize>25353168</packageSize>
+  <localizedMetadataList default_locale="en"><localizedMeta locale="en"><description><![CDATA[A physics calculation puzzle game, with a new sensation, hits the scene!<BR><BR>★ The rules are simple, slice the blocks and move the Ninjas to the front of the gate!<BR>★ We have prepared stages that you can clear with a breeze, to stages that are so difficult that they will make you groan , but are still worth clearing. <BR>★ A surprise after you clear the stage....challenge the coin-collecting and the clear time attack!<BR><BR>Your purpose as the chivalrous robber, is to borrow the treasure coin that the evil procurator is holding and divide it out between the poor people.<BR>Clear all 60 stages that are colored by the four seasons, and aim to become the Ninja Master! <BR><BR>Package size: 25 MB - More storage space required for install<BR><BR>Compatibility information:<BR>Number of players for local play: 1 Player<BR><BR>Supported interfaces/sensors<BR>- Touchscreen<BR><BR>Supported languages:<BR>English(United States)/Japanese<BR><BR>© WIZARDSOFT<BR><BR>]]></description></localizedMeta><localizedMeta locale="ja"><description><![CDATA[新感覚の物理演算・パズルゲーム、ここに登場!!<BR><BR>★ルールはシンプル、ブロックをスライスし、ニンジャを扉の前に動かそう！<BR>★サクッとクリアのカンタンなステージはもちろん、思わず唸るやりがいのあるステージまで用意！<BR>★ステージクリア後のお楽しみ……小判収集やクリアタイムアタックにチャレンジしよう！<BR><BR>義賊ニンジャである君の目的は、悪代官が隠しているお宝小判を拝借し、金に困った者に分け与えることだ。<BR>春夏秋冬によって彩られた全60ステージをクリアし、目指せ、忍者マスター！ <BR><BR>コンテンツ容量: 25 MB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR><BR>対応言語:<BR>英語(アメリカ)/日本語<BR><BR>著作権等:<BR>© WIZARDSOFT<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Puzzle"/><genre value="Games:Casual"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_3.png</ratingLogo><contentDescriptor>PEGIEX_Drugs.png</contentDescriptor></rating><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating><rating type="ESRB"><ratingLogo>ESRB_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_1.png</screenShot><screenShot>screenshot_2.png</screenShot><screenShot>screenshot_5.png</screenShot><screenShot>screenshot_3.png</screenShot><screenShot>screenshot_4.png</screenShot></screenShotList>
+
+</psmMeta>

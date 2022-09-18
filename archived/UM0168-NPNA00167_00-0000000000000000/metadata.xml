@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPNA00167_00">
+
+  <appVersion>1.00</appVersion>
+  <runtimeVersion>1.21</runtimeVersion>
+  <packageSize>12953584</packageSize>
+  <localizedMetadataList default_locale="en"><localizedMeta locale="en"><description><![CDATA[MTG: LifeKeeper<BR><BR>- Set life points from a minimum of 10 to a maximum of 100 points! (Default 20)<BR>- Ability to set names above life point scores.<BR>- Both sides have the ability to select their own elemental background. <BR><BR>Package size: 13 MB - More storage space required for install<BR><BR>Compatibility information:<BR>Number of players for local play: 1-2 Players<BR><BR>Supported interfaces/sensors<BR>- Touchscreen<BR><BR>Supported languages:<BR>English(United States)<BR><BR>WorldGenesis<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Apps:Utilities"/></genreList>
+  <ratingList default="SELF"><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_3.png</screenShot><screenShot>screenshot_2.png</screenShot><screenShot>screenshot_1.png</screenShot></screenShotList>
+
+</psmMeta>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00295_00">
+
+  <appVersion>1.00</appVersion>
+  <runtimeVersion>2.00</runtimeVersion>
+  <packageSize>44450960</packageSize>
+  <localizedMetadataList default_locale="ja"><localizedMeta locale="ja"><description><![CDATA[このコンテンツはAndroid™端末非対応です。<BR><BR>日本クリエイター育成協会主催の<BR>「ゲームキャンパスフェス2014」入賞タイトルがPlayStation®Mobileで遂に配信！<BR><BR>■ゲーム概要<BR>画面に<BR>あるものが<BR><BR>全てお前の<BR>武器だ<BR><BR>やられたら倍にしてやり返す<BR>それが、マフィアの流儀<BR>そのためには手段を選ばない…<BR><BR>例え武器が壊れても<BR>不屈の闘志が、費えぬ限り<BR><BR>ヤツの戦いは、終わらない<BR><BR>無残に、殺されたボスの仇<BR>死しても討つ覚悟<BR><BR>それが<BR>彼の<BR>ヴェンジェンス<BR><BR>それが<BR>ヴェンジェンスボス<BR><BR>このゲームは２D横スクロールアクションゲームです。<BR>しかし、このゲームでは殴るや蹴るなどの一般的な攻撃方法はなく、<BR>全てステージ上の「モノ」を掴んで武器にします。<BR>Rボタンでステージ上の「モノ」を掴み<BR>キャラクターの頭上に表示されるゲージをボタンの連打でためることで<BR>武器を手に入れることができます。<BR>その武器を使って敵を倒していきます。<BR><BR><BR>主催：日本クリエイター育成協会<BR>開発支援：株式会社スマイルブーム/株式会社ブービートラップ<BR>配信・販売協力：株式会社ブービートラップ<BR>プラットフォーム協力：株式会社ソニー・コンピュータエンタテインメント <BR><BR>コンテンツ容量: 43 MB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR>- コントローラーまたは、オンスクリーンコントローラー<BR><BR>対応言語:<BR>日本語<BR><BR>著作権等:<BR>OTA INFORMATION &amp; BUSINESS COLLEGE<BR><BR>Android is a trademark of Google Inc.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Action"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_12.png</ratingLogo></rating><rating type="SELF"><ratingLogo>SELF_12.png</ratingLogo><contentDescriptor>SELF_Violence.png</contentDescriptor></rating><rating type="ESRB"><ratingLogo>ESRB_10.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_1.png</screenShot><screenShot>screenshot_3.png</screenShot><screenShot>screenshot_4.png</screenShot><screenShot>screenshot_5.png</screenShot></screenShotList>
+
+</psmMeta>

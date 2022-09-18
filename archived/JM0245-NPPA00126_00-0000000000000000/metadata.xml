@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00126_00">
+
+  <appVersion>1.00</appVersion>
+  <runtimeVersion>1.11</runtimeVersion>
+  <packageSize>2095840</packageSize>
+  <localizedMetadataList default_locale="en"><localizedMeta locale="en"><description><![CDATA[It is a schedule application.<BR>Without having to do the screen transition,  you can check the schedule of select day and today on one screen.<BR>You can also do a search of the schedule by specifying the period. <BR><BR>Package size: 2047 KB - More storage space required for install<BR><BR>Compatibility information:<BR>Number of players for local play: 1 Player<BR><BR>Supported interfaces/sensors<BR>- Touchscreen<BR>- Controller / On-screen controller<BR><BR>Supported languages:<BR>English(United States)/English(United Kingdom)/Japanese<BR><BR>Copyright (C) 2013 SeazDevelop All Rights Reserved.<BR><BR>]]></description></localizedMeta><localizedMeta locale="ja"><description><![CDATA[スケジュールアプリケーションです。<BR>画面遷移の操作をすることなく、1画面で本日の予定及び選択日の予定を確認できます。<BR>期間を指定してスケジュールの検索を行うことも可能です。 <BR><BR>コンテンツ容量: 2047 KB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR>- コントローラーまたは、オンスクリーンコントローラー<BR><BR>対応言語:<BR>英語(アメリカ)/英語(イギリス)/日本語<BR><BR>著作権等:<BR>Copyright (C) 2013 SeazDevelop All Rights Reserved.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Apps:Lifestyle"/></genreList>
+  <ratingList default="SELF"><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_7.png</screenShot><screenShot>screenshot_8.png</screenShot><screenShot>screenshot_9.png</screenShot></screenShotList>
+
+</psmMeta>

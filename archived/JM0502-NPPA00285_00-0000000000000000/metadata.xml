@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00285_00">
+
+  <appVersion>1.00</appVersion>
+  <runtimeVersion>2.00</runtimeVersion>
+  <packageSize>61003312</packageSize>
+  <localizedMetadataList default_locale="ja"><localizedMeta locale="ja"><description><![CDATA[このコンテンツはAndroid™端末非対応です。<BR><BR>※※※　これが宇宙の始まりである　※※※<BR>伝説のSFアクションゲーム「GERONEKO」がついに登場！<BR><BR>ゲーム発表当時の感動そのままに完全移植した「オリジナルモード」に加え<BR>現代風にリメイクを行いスコアアタックを可能にした「アレンジモード」が遊べます。<BR>「アレンジモード」では一定の条件を満たすことでボーナスステージに突入！<BR>さらなる高得点を目指し宇宙創造の物語を堪能しよう！（忍者も出るよ！）<BR><BR>＝＝ ストーリー ＝＝<BR>地球はもう駄目だから種の保存の為に選ばれた”げろねこ”が、<BR>”メサイヤ”という乗り物にのせられて、<BR>地球爆発寸前に脱出した後に、ブラックホール化した地球に吸い込まれていく<BR>ペット達の毛を剥ぎとって、新たな毛玉の星で”げろねこ”の惑星を作る…<BR><BR>いまこそ、ネコと和解せよ！ <BR><BR>コンテンツ容量: 59 MB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR>- コントローラーまたは、オンスクリーンコントローラー<BR><BR>対応言語:<BR>英語(アメリカ)/日本語<BR><BR>著作権等:<BR>Copyright(c)2015 GeroNeko Project<BR><BR>Android is a trademark of Google Inc.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Unique"/><genre value="Games:Action"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_3.png</ratingLogo></rating><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating><rating type="ESRB"><ratingLogo>ESRB_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_5.png</screenShot><screenShot>screenshot_3.png</screenShot><screenShot>screenshot_4.png</screenShot><screenShot>screenshot_6.png</screenShot></screenShotList>
+
+</psmMeta>

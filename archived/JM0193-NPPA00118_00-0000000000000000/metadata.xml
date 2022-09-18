@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00118_00">
+
+  <appVersion>1.00</appVersion>
+  <runtimeVersion>1.11</runtimeVersion>
+  <packageSize>466990864</packageSize>
+  <localizedMetadataList default_locale="ja"><localizedMeta locale="ja"><description><![CDATA[ウルクスヘブン×アルヴィオンADVシリーズ第一弾！<BR>感動のストーリーで綴る、オリジナル恋愛アドベンチャーゲーム！<BR><BR><BR>未来を変えるため、<BR>少女は新たな物語を紡ぐことを決意する。<BR><BR>『自分の思い』を、叶えるために……。<BR><BR>未来と現在。<BR>それらが重なり紡がれる物語が始まります。<BR><BR>ここから変わる未来。<BR>その先に待つ結末とは……。<BR><BR><BR>【ゲーム概要】------------------------------<BR><BR>本作は、主人公が未来から来たという謎の少女に導かれ<BR>自らの意志で本当の幸せをつかむまでの物語を綴った<BR>学園恋愛アドベンチャーゲーム（ギャルゲー）です。<BR><BR>ストーリーを読み進める中で発生する選択肢の結果で、<BR>各美少女キャラクターとのエンディングが迎えられます。<BR><BR><BR>【お知らせ】------------------------------<BR><BR>待望のシリーズ第二弾<BR>『Fragment's Note2 Side:雫』好評配信中！<BR><BR>もうひとりのヒロインと紡ぐ、もうひとつの『Fragment's Note2』<BR>シリーズ第三弾『Fragment's Note2 Side：雪月』も鋭意制作中！<BR><BR>詳しくは公式Twitterアカウント（@UxA_ADV）をチェック！<BR><BR>-------------------------------------------- <BR><BR>コンテンツ容量: 446 MB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR><BR>対応言語:<BR>日本語<BR><BR>著作権等:<BR>(C)2012 ULLUCUS HEAVEN Inc.／(C)2012 ALVION Inc.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Casual"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_3.png</ratingLogo></rating><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo><contentDescriptor>SELF_Sex.png</contentDescriptor></rating><rating type="ESRB"><ratingLogo>ESRB_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_1.png</screenShot><screenShot>screenshot_2.png</screenShot><screenShot>screenshot_3.png</screenShot><screenShot>screenshot_4.png</screenShot><screenShot>screenshot_5.png</screenShot></screenShotList>
+
+</psmMeta>

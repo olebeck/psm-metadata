@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00207_00">
+
+  <appVersion>1.00</appVersion>
+  <runtimeVersion>2.00</runtimeVersion>
+  <packageSize>104081312</packageSize>
+  <localizedMetadataList default_locale="ja"><localizedMeta locale="ja"><description><![CDATA[このコンテンツはAndroid™端末非対応です。<BR><BR>消えた記憶を取り戻す「啓示」は、「強制の知識」「agRAVe（エイジレイブ）」を手にするため先生の提示した「課題」を受けていた。プレイヤーは「啓示」に提示されたこの「課題」を、「ゲーム」として体験し「物語」を読みすすめます。<BR>内容は「６ボタン」＋「十字入力アクション」、さらに「認色（白黒認識）」を追加し素早い「判断」が必要なアクション系ゲーム。「啓示」と共に「RAV（知識）」をすべて手にして「Lv99」を目指しましょう。<BR>【物語１話～４話。物語３課題。課題単独プレイヤー啓示含む３人セレクト。課題相手３キャラ＆ステージ。６ボタン＋右スティック（十字扱い）キーコンフィグ。】 <BR><BR>コンテンツ容量: 100 MB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- コントローラーまたは、オンスクリーンコントローラー<BR><BR>対応言語:<BR>日本語<BR><BR>著作権等:<BR>(c) AGrave 2014.<BR><BR>Android is a trademark of Google Inc.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Action"/><genre value="Games:Arcade"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_18.png</ratingLogo><contentDescriptor>PEGIEX_Online.png</contentDescriptor><contentDescriptor>PEGIEX_Violence.png</contentDescriptor></rating><rating type="SELF"><ratingLogo>SELF_16.png</ratingLogo><contentDescriptor>SELF_Fear.png</contentDescriptor><contentDescriptor>SELF_Language.png</contentDescriptor><contentDescriptor>SELF_Violence.png</contentDescriptor><contentDescriptor>SELF_Sex.png</contentDescriptor></rating><rating type="ESRB"><ratingLogo>ESRB_13.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_1.png</screenShot><screenShot>screenshot_2.png</screenShot><screenShot>screenshot_3.png</screenShot><screenShot>screenshot_4.png</screenShot><screenShot>screenshot_5.png</screenShot><screenShot>screenshot_6.png</screenShot><screenShot>screenshot_7.png</screenShot><screenShot>screenshot_8.png</screenShot><screenShot>screenshot_9.png</screenShot><screenShot>screenshot_10.png</screenShot></screenShotList>
+
+</psmMeta>

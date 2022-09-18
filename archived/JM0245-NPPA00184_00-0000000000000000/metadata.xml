@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00184_00">
+
+  <appVersion>1.00</appVersion>
+  <runtimeVersion>1.21</runtimeVersion>
+  <packageSize>3410592</packageSize>
+  <localizedMetadataList default_locale="en"><localizedMeta locale="en"><description><![CDATA[It is a RSS reader application. <BR>There shortcut registration of each function, and saving bookmarks to function beyond basic.<BR>※Corresponding format is RSS1.0, RSS2.0, ATOM1.0. <BR><BR>Package size: 3331 KB - More storage space required for install<BR><BR>Compatibility information:<BR>Number of players for local play: 1 Player<BR><BR>Supported interfaces/sensors<BR>- Touchscreen<BR>- Controller / On-screen controller<BR><BR>Supported languages:<BR>English(United States)/English(United Kingdom)/Japanese<BR><BR>Copyright (C) 2014 SeazDevelop All Rights Reserved.<BR><BR>]]></description></localizedMeta><localizedMeta locale="ja"><description><![CDATA[RSSリーダーアプリケーションです。<BR>基本的な機能以外には各機能のショートカット登録、ブックマーク保存などがあります。<BR>※対応フォーマットはRSS1.0、RSS2.0、ATOM1.0となります。 <BR><BR>コンテンツ容量: 3331 KB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR>- コントローラーまたは、オンスクリーンコントローラー<BR><BR>対応言語:<BR>英語(アメリカ)/英語(イギリス)/日本語<BR><BR>著作権等:<BR>Copyright (C) 2014 SeazDevelop All Rights Reserved.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Apps:News"/><genre value="Apps:Magazines"/></genreList>
+  <ratingList default="SELF"><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_7.png</screenShot><screenShot>screenshot_8.png</screenShot><screenShot>screenshot_9.png</screenShot><screenShot>screenshot_10.png</screenShot></screenShotList>
+
+</psmMeta>

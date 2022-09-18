@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00107_00">
+
+  <appVersion>1.00</appVersion>
+  <runtimeVersion>1.00</runtimeVersion>
+  <packageSize>107730544</packageSize>
+  <localizedMetadataList default_locale="ja"><localizedMeta locale="ja"><description><![CDATA[声優の卵とのコラボビジュアルノベルゲーム!<BR><BR>ここは人間と動物、そして多種多彩な妖怪たちが共生する世界。<BR><BR>とある山奥に、人間と他種族との共生向上を目的とした、”巫女”を育成する教育機関『巫女学校』が設立された。<BR><BR>そこに1人の女の子、沙苗が入学してきた。<BR><BR>夏に妖怪たちと戦ったり、友だちと夏休みを過ごしたり、ごく普通の高校一年生の女の子。<BR><BR>ただし、魔法が使える。得意技は、癒やしの魔法。<BR><BR>いずれは人間と妖怪が争わず、幸せに暮らせるコトを願う心優しき少女である。 <BR><BR>コンテンツ容量: 103 MB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR>- コントローラーまたは、オンスクリーンコントローラー<BR><BR>対応言語:<BR>日本語<BR><BR>著作権等:<BR>(c) xinoro 2010-2013. All Rights Reserved.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Adventure"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_12.png</ratingLogo><contentDescriptor>PEGIEX_Sex.png</contentDescriptor></rating><rating type="SELF"><ratingLogo>SELF_12.png</ratingLogo><contentDescriptor>SELF_Sex.png</contentDescriptor></rating><rating type="ESRB"><ratingLogo>ESRB_13.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_1.png</screenShot><screenShot>screenshot_2.png</screenShot><screenShot>screenshot_3.png</screenShot><screenShot>screenshot_5.png</screenShot><screenShot>screenshot_6.png</screenShot></screenShotList>
+
+</psmMeta>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPNA00286_00">
+
+  <appVersion>1.00</appVersion>
+  <runtimeVersion>4.03</runtimeVersion>
+  <packageSize>188313296</packageSize>
+  <localizedMetadataList default_locale="en"><localizedMeta locale="en"><description><![CDATA[THIS CONTENT IS NOT COMPATIBLE WITH Androidâ„¢ DEVICES.<BR><BR>Dodge the attacks of enemy ships! Use your brakes with wisdom! And destroy them with your ship, equipped with a cannon and infinite ammo! Don't forget to use the slow motion module in your ship, which can be activated when your power bar is maxed!<BR><BR>Don't forget to collect power-ups, like auxiliary ships that multiply the ship's firepower, or shields that absorb the damage received and bombs to blow up all your enemies.<BR><BR>Good luck, because you will need it together with your skills, to survive in GRID SURVIVOR! <BR><BR>Package size: 180 MB - More storage space required for install<BR><BR>Compatibility information:<BR>Number of players for local play: 1 Player<BR><BR>Supported interfaces/sensors<BR>- Controller / On-screen controller<BR><BR>Supported languages:<BR>English(United States)<BR><BR>Cafe Game Studio<BR><BR>Android is a trademark of Google Inc.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Arcade"/><genre value="Games:Action"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_3.png</ratingLogo></rating><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating><rating type="ESRB"><ratingLogo>ESRB_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_7.png</screenShot><screenShot>screenshot_8.png</screenShot><screenShot>screenshot_9.png</screenShot><screenShot>screenshot_10.png</screenShot><screenShot>screenshot_11.png</screenShot></screenShotList>
+
+</psmMeta>

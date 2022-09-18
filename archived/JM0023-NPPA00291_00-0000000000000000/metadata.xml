@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00291_00">
+
+  <appVersion>1.00</appVersion>
+  <runtimeVersion>4.03</runtimeVersion>
+  <packageSize>145916656</packageSize>
+  <localizedMetadataList default_locale="ja"><localizedMeta locale="ja"><description><![CDATA[このコンテンツはAndroid™端末非対応です。<BR><BR>日本クリエイター育成協会主催の<BR>「ゲームキャンパスフェス2014」入賞タイトルがPlayStation®Mobileで遂に配信！<BR><BR>このゲームの主人公の名前は”ろびっつ”といい、真っ直ぐに進むことしかできません。<BR>プレイヤーは様々な効果のあるアイテムの”カタチ”をパネルに描いてアイテムを生み出し、ろびっつ達を誘導してギミックを解き、王冠を被っているキングろびっつを無事にゴールまで導いていくゲームです。<BR><BR>操作方法は簡単で、片手（指先）のみでこのゲームを遊ぶことが出来ます。<BR>画面をタッチするとパネルが出てきます。このパネルでは穴を塞ぐことのできる橋や、高い壁を乗り越えられるバネなどの、ろびっつを助けるアイテムを出すという機能の他にもプレイヤーが出したアイテムを消すこともできます。 <BR><BR>この最大の特徴である絵を描いているようにしてアイテムを出すという機能では、パネルというキャンバスにそれぞれのアイテムを象徴する絵(シンボル)を書くことによって得られる楽しさがあります。<BR><BR>これらの機能やアイテムを駆使して、ろびっつ達をゴールまで導く事が目的となります。<BR><BR>ステージは全４０ステージ構成で、最後まで楽しんでもらえるような構成で、<BR>砂浜ステージなら徐々に崩れていく足場、夜のステージならろびっつ達が見え辛くなる暗闇、マグマのステージならアイテムをも溶かす行く手を阻むマグマなど、各ステージによってユニークなギミックがたくさん用意されています。<BR><BR>画面内の全てをドット絵で構成される世界。どこか懐かしい雰囲気が漂う空間で困難にも挫けず一生懸命進むろびっつ達をゴールへ導いてあげましょう。<BR><BR><BR>主催：日本クリエイター育成協会<BR>開発支援：株式会社スマイルブーム/株式会社ブービートラップ<BR>配信・販売協力：株式会社ブービートラップ<BR>プラットフォーム協力：株式会社ソニー・コンピュータエンタテインメント <BR><BR>コンテンツ容量: 140 MB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR><BR>対応言語:<BR>日本語<BR><BR>著作権等:<BR>Niigata Computer College<BR><BR>Android is a trademark of Google Inc.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Puzzle"/><genre value="Games:Action"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_3.png</ratingLogo></rating><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating><rating type="ESRB"><ratingLogo>ESRB_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_1.png</screenShot><screenShot>screenshot_2.png</screenShot><screenShot>screenshot_3.png</screenShot><screenShot>screenshot_4.png</screenShot></screenShotList>
+
+</psmMeta>

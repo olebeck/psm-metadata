@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00104_00">
+
+  <appVersion>1.00</appVersion>
+  <runtimeVersion>1.00</runtimeVersion>
+  <packageSize>2454624</packageSize>
+  <localizedMetadataList default_locale="ja"><localizedMeta locale="ja"><description><![CDATA[2ちゃんねるブラウザです。<BR>インターネット掲示板2ちゃんねるを見やすくすることができます。<BR>読み込み、書き込み、レスやスレの抽出、NGなどひと通りの機能はあります。<BR>有料書き込みサービスP2にも対応しています。 <BR><BR>コンテンツ容量: 2398 KB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR><BR>対応言語:<BR>日本語<BR><BR>著作権等:<BR>Copyright (C) 2012 Yamaoka Technology All Rights Reserved.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Apps:Communication"/><genre value="Apps:Entertainment"/></genreList>
+  <ratingList default="SELF"><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_6.png</screenShot><screenShot>screenshot_7.png</screenShot><screenShot>screenshot_3.png</screenShot><screenShot>screenshot_8.png</screenShot></screenShotList>
+
+</psmMeta>

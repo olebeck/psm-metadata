@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00172_00">
+
+  <appVersion>1.00</appVersion>
+  <runtimeVersion>1.21</runtimeVersion>
+  <packageSize>3504848</packageSize>
+  <localizedMetadataList default_locale="en"><localizedMeta locale="en"><description><![CDATA[Scientific calculator<BR><BR>・History (Multi-line playback)<BR>・Continuous calculation<BR>・Last answer + 26 Memories<BR>・Hex, Octal, Binary, Decimal mixed operation<BR>・32bit/16bit floating point RawBit conversion<BR>・Key repeat <BR><BR>Package size: 3423 KB - More storage space required for install<BR><BR>Compatibility information:<BR>Number of players for local play: 1 Player<BR><BR>Supported interfaces/sensors<BR>- Touchscreen<BR><BR>Supported languages:<BR>English(United States)/Japanese<BR><BR>Copyright(C)2014 flatlib.jp<BR><BR>]]></description></localizedMeta><localizedMeta locale="ja"><description><![CDATA[数式入力タイプの関数電卓です。<BR><BR>・数式入力方式<BR>・四則演算、関数演算<BR>・ヒストリ (マルチラインプレイバック)<BR>・連続計算<BR>・ラストアンサー + メモリー (26本)<BR>・2/8/10/16進数混在演算<BR>・32bit/16bit 浮動少数点の RawBit 変換<BR>・KeyRepeat <BR><BR>コンテンツ容量: 3423 KB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR><BR>対応言語:<BR>英語(アメリカ)/日本語<BR><BR>著作権等:<BR>Copyright(C)2014 flatlib.jp<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Apps:Utilities"/></genreList>
+  <ratingList default="SELF"><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_1.png</screenShot><screenShot>screenshot_2.png</screenShot><screenShot>screenshot_4.png</screenShot></screenShotList>
+
+</psmMeta>

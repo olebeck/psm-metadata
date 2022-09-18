@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00190_00">
+
+  <appVersion>1.00</appVersion>
+  <runtimeVersion>1.21</runtimeVersion>
+  <packageSize>529840544</packageSize>
+  <localizedMetadataList default_locale="ja"><localizedMeta locale="ja"><description><![CDATA[ウルクスヘブン×アルヴィオンADVシリーズ第三弾！<BR><BR>新たに紡がれる、もう一つの『Fragment's Note2』の物語<BR><BR>感動のオリジナル恋愛アドベンチャーゲーム<BR>『Fragment's Note』シリーズ待望の最新作が登場！<BR><BR><BR>【ゲーム概要】<BR><BR>本作は、テキストを読み進めることでゲームが進行していく、<BR>オリジナル学園恋愛ビジュアルノベルゲーム（ギャルゲー）です。<BR><BR>主人公『秋河 恭一』と、第一作『Fragment's Note』の<BR>キーキャラクターのひとりでもあったヒロイン『朝霞 雪月』が紡ぐ、<BR>『Fragment's Note2』のもう一つの可能性の物語が描かれます。<BR><BR><BR>※『Fragment's Note2 Side:雫』とは一部共通する内容がございます。<BR><BR>※『Fragment's Note』および『Fragment's Note2 Side:雫』を<BR>　未プレイでもお楽しみいただけます。<BR><BR><BR>【あらすじ】<BR><BR>幼い頃に飛行機事故に巻き込まれ、<BR>家族全てを失った主人公『秋河 恭一』。<BR><BR>それから、時は過ぎ……。<BR><BR>新たな家族に引き取られた恭一は、<BR>飛行機事故の際に負ったトラウマを抱えながらも<BR>義理の妹や友人達と極々平凡に生きていた。<BR><BR>そんな、ある日、<BR>とあることがきっかけで、<BR>恭一は『朝霞 雪月』と出会う。<BR><BR>その出会いが自分の未来に大きな影響を与える。<BR>そのことを知らないまま……<BR><BR><BR>【お知らせ】<BR><BR>『Fragment's Note』シリーズ４作品、好評配信中！<BR><BR>『Fragment's Note』シリーズの最新情報は<BR>公式Twitterアカウント（@UxA_ADV）をチェック！ <BR><BR>コンテンツ容量: 506 MB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR>- コントローラーまたは、オンスクリーンコントローラー<BR><BR>対応言語:<BR>日本語<BR><BR>著作権等:<BR>(C)2014 ULLUCUS HEAVEN Inc.／(C)2014 ALVION Inc.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Adventure"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_3.png</ratingLogo><contentDescriptor>PEGIEX_Sex.png</contentDescriptor></rating><rating type="SELF"><ratingLogo>SELF_16.png</ratingLogo><contentDescriptor>SELF_Sex.png</contentDescriptor></rating><rating type="ESRB"><ratingLogo>ESRB_17.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_9.png</screenShot><screenShot>screenshot_10.png</screenShot><screenShot>screenshot_11.png</screenShot><screenShot>screenshot_12.png</screenShot></screenShotList>
+
+</psmMeta>

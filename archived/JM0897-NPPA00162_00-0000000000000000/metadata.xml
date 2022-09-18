@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00162_00">
+
+  <appVersion>1.00</appVersion>
+  <runtimeVersion>1.20</runtimeVersion>
+  <packageSize>22880720</packageSize>
+  <localizedMetadataList default_locale="en"><localizedMeta locale="en"><description><![CDATA[Bloodred Wyvern is an arcade style third-person rail shooter game. The player must fly the Wyvern and shoot down the enemies! Experience 9 stages! <BR><BR>Package size: 22 MB - More storage space required for install<BR><BR>Compatibility information:<BR>Number of players for local play: 1 Player<BR><BR>Supported interfaces/sensors<BR>- Controller / On-screen controller<BR><BR>Supported languages:<BR>Japanese<BR><BR>Copyright (C) 2013 MUKAGOSOFTWARE DEVELOPMENT All Rights Reserved.<BR><BR>]]></description></localizedMeta><localizedMeta locale="es"><description><![CDATA[Bloodred Wyvern es un juego de disparos en tercera persona de estilo arcade. El jugador tiene que hacer volar al Wyvern y derribar a los enemigos! <BR><BR>Tamaño del paquete: 22 MB. Se requiere más espacio de almacenamiento para la instalación <BR><BR>Información de compatibilidad:<BR>Número de jugadores para juego local: 1 jugador<BR><BR>Interfaces/sensores compatibles<BR>- Mando / mando en pantalla<BR><BR>Idiomas compatibles:<BR>Japonés<BR><BR>Copyright (C) 2013 MUKAGOSOFTWARE DEVELOPMENT All Rights Reserved.<BR><BR>]]></description></localizedMeta><localizedMeta locale="ja"><description><![CDATA[奥スクロールタイプの3Dシューティングゲームです。<BR>自キャラであるワイバーンを操作して、迫り来る敵を撃墜しよう！<BR>全９ステージ。 <BR><BR>コンテンツ容量: 22 MB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- コントローラーまたは、オンスクリーンコントローラー<BR><BR>対応言語:<BR>日本語<BR><BR>著作権等:<BR>Copyright (C) 2013 MUKAGOSOFTWARE DEVELOPMENT All Rights Reserved.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Shooter"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_7.png</ratingLogo><contentDescriptor>PEGIEX_Fear.png</contentDescriptor></rating><rating type="SELF"><ratingLogo>SELF_7.png</ratingLogo><contentDescriptor>SELF_Fear.png</contentDescriptor></rating><rating type="ESRB"><ratingLogo>ESRB_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_2.png</screenShot><screenShot>screenshot_3.png</screenShot><screenShot>screenshot_5.png</screenShot><screenShot>screenshot_6.png</screenShot><screenShot>screenshot_7.png</screenShot><screenShot>screenshot_8.png</screenShot><screenShot>screenshot_9.png</screenShot><screenShot>screenshot_10.png</screenShot></screenShotList>
+
+</psmMeta>
