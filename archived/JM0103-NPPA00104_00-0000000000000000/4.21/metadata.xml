@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00104_00">
+
+  <appVersion>4.21</appVersion>
+  <runtimeVersion>1.20</runtimeVersion>
+  <packageSize>8077104</packageSize>
+  <localizedMetadataList default_locale="ja"><localizedMeta locale="ja"><description><![CDATA[2ちゃんねるブラウザです。<BR><BR>Ver4.21<BR><BR>不具合対応:<BR>Ver 4.2においてウェルカムメッセージを出す設定にしているとC2エラーで起動できない場合がある問題に対応して、ウェルカムメッセージを出せなくしました。<BR><BR>変更点:<BR>NGIDに登録した時にスレッドがスクロールしなくなった<BR>NGレスからのアンカーがアンカー数にカウントされなくなった<BR><BR>4.2の新機能<BR>板名検索、スレタイ検索<BR>あるIDのレスを板全体から探す機能、<BR>お気に入りのフォルダ分け、履歴のカスタマイズ<BR><BR>4.1の新機能<BR>したらば対応<BR><BR>前からある機能:<BR>大きく表示できる1画面モード・疲れにくい2画面モード<BR>レスのツリー表示、ID抽出,赤レス、自分のレスの抽出<BR>勢い、新着、スレ順でのソート、既読スレの抽出<BR>スレタイ検索や次スレ検索<BR>通常の書き込みやP2による書き込み　書き込み制限時間の警告やカウントダウンNGID,Name,Word,連鎖NG<BR>崩れにくいAA<BR>パートスレを登録して新着を自動取得、<BR>コピー&amp;ペースト、メモ機能。<BR>板ごとのコテハン設定機能。<BR>など <BR><BR>コンテンツ容量: 7888 KB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR>- コントローラーまたは、オンスクリーンコントローラー<BR><BR>対応言語:<BR>日本語<BR><BR>著作権等:<BR>Copyright (C) 2012-2013 Yamaoka Technology All Rights Reserved.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Apps:Communication"/><genre value="Apps:Entertainment"/></genreList>
+  <ratingList default="SELF"><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_16.png</screenShot><screenShot>screenshot_17.png</screenShot><screenShot>screenshot_24.png</screenShot><screenShot>screenshot_25.png</screenShot><screenShot>screenshot_26.png</screenShot><screenShot>screenshot_27.png</screenShot></screenShotList>
+
+</psmMeta>

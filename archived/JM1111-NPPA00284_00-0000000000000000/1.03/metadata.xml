@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00284_00">
+
+  <appVersion>1.03</appVersion>
+  <runtimeVersion>2.00</runtimeVersion>
+  <packageSize>3306816</packageSize>
+  <localizedMetadataList default_locale="en"><localizedMeta locale="en"><description><![CDATA[THIS CONTENT IS NOT COMPATIBLE WITH Android™ DEVICES.<BR><BR>This is a painting app.<BR>How to use:<BR>Press the "Start" button to save.<BR>Press the "Select" button to open the palette. <BR><BR>Package size: 3230 KB - More storage space required for install<BR><BR>Compatibility information:<BR>Number of players for local play: 1 Player<BR><BR>Supported interfaces/sensors<BR>- Touchscreen<BR>- Controller / On-screen controller<BR><BR>Supported languages:<BR>English(United States)<BR><BR>Copyright(c)2015 Tora software.<BR><BR>Android is a trademark of Google Inc.<BR><BR>]]></description></localizedMeta><localizedMeta locale="ja"><description><![CDATA[このコンテンツはAndroid™端末非対応です。<BR><BR>Painterはペイントアプリです。<BR>使い方:<BR>Startボタンを押して保存する。<BR>Selectボタンを押してパレットを開く。 <BR><BR>コンテンツ容量: 3230 KB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR>- コントローラーまたは、オンスクリーンコントローラー<BR><BR>対応言語:<BR>英語(アメリカ)<BR><BR>著作権等:<BR>Copyright(c)2015 Tora software.<BR><BR>Android is a trademark of Google Inc.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Apps:Photo"/></genreList>
+  <ratingList default="SELF"><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_3.png</screenShot><screenShot>screenshot_1.png</screenShot><screenShot>screenshot_2.png</screenShot></screenShotList>
+
+</psmMeta>

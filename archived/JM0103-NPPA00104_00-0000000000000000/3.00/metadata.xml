@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00104_00">
+
+  <appVersion>3.00</appVersion>
+  <runtimeVersion>1.11</runtimeVersion>
+  <packageSize>5728464</packageSize>
+  <localizedMetadataList default_locale="ja"><localizedMeta locale="ja"><description><![CDATA[2ちゃんねるブラウザです。<BR><BR>Ver 3.0の新機能:<BR>画面を広く使える一画面モードを追加しました。<BR>コピー&amp;ペースト、メモ機能を追加しました。<BR>板ごとのコテハン設定機能を追加しました。<BR><BR>変更点:<BR>動作速度を改善しました。<BR>(読み込み速度が上がり、スクロールがなめらかになり、<BR>高速スクロールが可能になり、消費電力が下がりました)<BR>URL、IDなどのタッチ可能範囲を広げてタッチしやすくしました。<BR>長押しメニューにID抽出を追加しました。<BR>大きな画像も表示できることが多くなりました。<BR><BR>前からある機能:<BR>レスのツリー表示、ID抽出,赤レス、自分のレスの抽出<BR>勢い、新着、スレ順でのソート、既読スレの抽出<BR>スレタイ検索や次スレ検索<BR>通常の書き込みやP2による書き込み　書き込み制限時間の警告やカウントダウンNGID,Name,Word,連鎖NG<BR>崩れにくいAA<BR>よく使うスレッドを登録して新着を自動取得、など <BR><BR>コンテンツ容量: 5595 KB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR><BR>対応言語:<BR>日本語<BR><BR>著作権等:<BR>Copyright (C) 2012-2013 Yamaoka Technology All Rights Reserved.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Apps:Communication"/><genre value="Apps:Entertainment"/></genreList>
+  <ratingList default="SELF"><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_16.png</screenShot><screenShot>screenshot_17.png</screenShot><screenShot>screenshot_24.png</screenShot><screenShot>screenshot_25.png</screenShot><screenShot>screenshot_26.png</screenShot><screenShot>screenshot_27.png</screenShot></screenShotList>
+
+</psmMeta>

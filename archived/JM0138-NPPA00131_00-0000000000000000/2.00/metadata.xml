@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00131_00">
+
+  <appVersion>2.00</appVersion>
+  <runtimeVersion>1.21</runtimeVersion>
+  <packageSize>7124768</packageSize>
+  <localizedMetadataList default_locale="ja"><localizedMeta locale="ja"><description><![CDATA[箱の中にビー玉があったら転がしたい・・・<BR>という遊び心から生まれたゲームです。<BR><BR>箱を傾け、球を転がし、球どうしをくっつけて消す、シンプルゲーム。<BR>ですが、箱の中には様々なオブジェクトが登場し、遊びを彩ります。<BR><BR>１ステージのプレイ時間は平均　１分<BR>さくっと遊べるので暇つぶしにどうぞ。<BR><BR>遊べるモードは次の２つ<BR>「ステージクリア」　はテクニック・反射神経・頭脳を使って<BR>簡単なステージから高難易度のステージまで全54面を攻略するモード<BR>「スコアアタック」　は一定時間で高得点を目指すスコアラー向けのモード<BR>遊べるステージは　18面<BR><BR>実際に遊びながら説明・体感する「チュートリアル」モードもあるから<BR>ゲーム初心者でも大歓迎！<BR><BR>操作は方向キー等のコントローラ以外に<BR>タッチスクリーン・モーションセンサー　も使用できます。<BR>（モーションセンサーは　オプションにて設定）<BR><BR>手軽に遊べるゲーム「箱球」をよろしくお願いします。 <BR><BR>コンテンツ容量: 6958 KB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR>- コントローラーまたは、オンスクリーンコントローラー<BR>- モーションセンサー<BR><BR>対応言語:<BR>日本語<BR><BR>著作権等:<BR>Copyright (C) 2013 R-wivern All Rights Reserved.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Action"/><genre value="Games:Puzzle"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_3.png</ratingLogo></rating><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating><rating type="ESRB"><ratingLogo>ESRB_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_1.png</screenShot><screenShot>screenshot_2.png</screenShot><screenShot>screenshot_3.png</screenShot><screenShot>screenshot_4.png</screenShot><screenShot>screenshot_5.png</screenShot><screenShot>screenshot_6.png</screenShot><screenShot>screenshot_7.png</screenShot></screenShotList>
+
+</psmMeta>

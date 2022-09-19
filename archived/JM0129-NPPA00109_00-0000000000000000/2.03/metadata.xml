@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00109_00">
+
+  <appVersion>2.03</appVersion>
+  <runtimeVersion>1.20</runtimeVersion>
+  <packageSize>6000944</packageSize>
+  <localizedMetadataList default_locale="ja"><localizedMeta locale="ja"><description><![CDATA["すなあらし 2ch" はPlayStation®Mobile（PlayStation®Vita、PSM対応Android端末）上で使用可能な２ちゃんねる専用ブラウザです。<BR>ゲーマーにとってできる限り自然なボタン操作、全ての方にわかりやすいパネルタッチ操作を目指して作成されています。<BR>２ちゃんねる・まちBBS・したらば掲示板・わいわいKakiko掲示板・4chanの閲覧・レス投稿・スレ立て等、Be・必死チェッカーもどき・Sync2ch等の２ちゃんねる関連サービスに対応しています。<BR><BR>--- "すなあらし 2ch" の主な機能 ---<BR>(1) 被参照回数によりレス番号を色分け、発言回数によりIDを色分け<BR>(2) 参照・同一IDのレスポップアップ<BR>(3) 被参照回数の多いレス・画像を含むレス・自分のレス等を抽出する機能<BR>(4) スレッドタイトルで全板からスレッドを検索する機能、次スレ検索機能<BR>(5) 画像や動画等のサムネイルをレスの下に作成する機能<BR>(6) スレッドの自動更新機能 <BR><BR>コンテンツ容量: 5861 KB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR>- コントローラーまたは、オンスクリーンコントローラー<BR><BR>対応言語:<BR>日本語<BR><BR>著作権等:<BR>Copyright (C) 2013 Annelish All Rights Reserved.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Apps:SocialNetworking"/></genreList>
+  <ratingList default="SELF"><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_31.png</screenShot><screenShot>screenshot_32.png</screenShot><screenShot>screenshot_28.png</screenShot><screenShot>screenshot_34.png</screenShot><screenShot>screenshot_33.png</screenShot></screenShotList>
+
+</psmMeta>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00103_00">
+
+  <appVersion>1.02</appVersion>
+  <runtimeVersion>1.00</runtimeVersion>
+  <packageSize>36225888</packageSize>
+  <localizedMetadataList default_locale="ja"><localizedMeta locale="ja"><description><![CDATA[ルカはとある国のお姫様。<BR>とある国ということでとりあえず王子もいるのですが<BR>その王子がさらわれたという知らせを唐突に受けちゃいました。<BR>しょーがないので王子を助けるために<BR>お城を飛び出しちゃいました。<BR><BR>--------------------------------<BR><BR>ダッシュ、ジャンプでステージを突き進み<BR>パチンコで戦うアクションゲームです。<BR>パチンコはステージ途中で落ちているものもあり<BR>拾うことで種類が増えていきます。<BR><BR>テクニックを磨いていって王子を助け出しましょう！ <BR><BR>コンテンツ容量: 35 MB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR><BR>対応言語:<BR>日本語<BR><BR>著作権等:<BR>Copyright (C) 2012 AtelierYoka All Rights Reserved.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Action"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_12.png</ratingLogo><contentDescriptor>PEGIEX_Violence.png</contentDescriptor></rating><rating type="SELF"><ratingLogo>SELF_12.png</ratingLogo><contentDescriptor>SELF_Violence.png</contentDescriptor></rating><rating type="ESRB"><ratingLogo>ESRB_13.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_1.png</screenShot><screenShot>screenshot_2.png</screenShot><screenShot>screenshot_3.png</screenShot><screenShot>screenshot_4.png</screenShot><screenShot>screenshot_5.png</screenShot></screenShotList>
+
+</psmMeta>

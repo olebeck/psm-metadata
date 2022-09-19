@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPOA00264_00">
+
+  <appVersion>1.01</appVersion>
+  <runtimeVersion>4.03</runtimeVersion>
+  <packageSize>104610176</packageSize>
+  <localizedMetadataList default_locale="en"><localizedMeta locale="en"><description><![CDATA[THIS CONTENT IS NOT COMPATIBLE WITH Androidâ„¢ DEVICES.<BR><BR>This is a small arcade game about the ball in space. You have to find a way out of different mazes that are in space, but exactly in space!<BR>The game offers a diverse and amazing levels, you'll be able to go through them all? <BR><BR>Package size: 100 MB - More storage space required for install<BR><BR>Compatibility information:<BR>Number of players for local play: 1 Player<BR><BR>Supported interfaces/sensors<BR>- Touchscreen<BR>- Controller / On-screen controller<BR>- Motion sensor<BR><BR>Supported languages:<BR>English(United States)<BR><BR>cavebrave<BR><BR>Android is a trademark of Google Inc.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Arcade"/><genre value="Games:Casual"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_3.png</ratingLogo></rating><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating><rating type="ESRB"><ratingLogo>ESRB_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_5.png</screenShot><screenShot>screenshot_6.png</screenShot><screenShot>screenshot_7.png</screenShot></screenShotList>
+
+</psmMeta>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00219_00">
+
+  <appVersion>1.04</appVersion>
+  <runtimeVersion>4.03</runtimeVersion>
+  <packageSize>57059136</packageSize>
+  <localizedMetadataList default_locale="ja"><localizedMeta locale="ja"><description><![CDATA[このコンテンツはAndroid™端末非対応です。<BR><BR>段ボールでつくられた不思議なネコを操作して、<BR>トラップだらけの模型屋敷から脱出しよう。<BR><BR>タッチスクリーン＆背面タッチパッドを駆使して、危機を回避！<BR>即死系トラップダウジングアドベンチャー！<BR><BR>Ver1.04　アップデート内容<BR>　・部屋の移動時、まれにクラッシュが発生していた問題を修正しました。<BR>　・背面タッチパネルにおいて、他の指が触れていてもタッチ検出ができるように修正しました。<BR>　・死亡→リトライのロードを高速化しました。<BR>　・Titleに戻るボタンをタップした際、確認メニューが出るようにしました。<BR>　・トゲ罠の当たり判定が大きすぎる問題を修正しました。<BR>　・その他UIや小さな不具合の修正を含みます。<BR><BR>Copyright © 2014 Throw The Warped Code Out All Rights Reserved. <BR><BR>コンテンツ容量: 55 MB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR>- コントローラーまたは、オンスクリーンコントローラー<BR><BR>対応言語:<BR>日本語<BR><BR>著作権等:<BR>Thow The Warped Code Out<BR><BR>Android is a trademark of Google Inc.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Action"/><genre value="Games:Puzzle"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_7.png</ratingLogo><contentDescriptor>PEGIEX_Violence.png</contentDescriptor></rating><rating type="SELF"><ratingLogo>SELF_7.png</ratingLogo><contentDescriptor>SELF_Violence.png</contentDescriptor></rating><rating type="ESRB"><ratingLogo>ESRB_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_1.png</screenShot><screenShot>screenshot_2.png</screenShot><screenShot>screenshot_3.png</screenShot></screenShotList>
+
+</psmMeta>

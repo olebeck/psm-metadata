@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00191_00">
+
+  <appVersion>1.01</appVersion>
+  <runtimeVersion>1.21</runtimeVersion>
+  <packageSize>26374912</packageSize>
+  <localizedMetadataList default_locale="ja"><localizedMeta locale="ja"><description><![CDATA[独特の世界観とオルタナティブなゲーム性で話題となった、<BR>イタチョコゲームの最新作が、ついにPlayStation®Mobileに登場！<BR>本作は、大公園「ヒャクジリ公園」を舞台に、野良犬となって生きるシミュレーションゲーム。<BR>すべての行動により世界は少しづつ変化し模様を変えていきます。<BR>ロデムでしか味わえないこの不思議な体験を楽しもう。 <BR><BR>コンテンツ容量: 26 MB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR><BR>対応言語:<BR>日本語<BR><BR>著作権等:<BR>Copyright (C)2014 Pygmy Studio Co., Ltd. (C)iTA-Choco Systems<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Simulation"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_3.png</ratingLogo><contentDescriptor>PEGIEX_Violence.png</contentDescriptor></rating><rating type="SELF"><ratingLogo>SELF_12.png</ratingLogo><contentDescriptor>SELF_Violence.png</contentDescriptor></rating><rating type="ESRB"><ratingLogo>ESRB_10.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_1.png</screenShot><screenShot>screenshot_2.png</screenShot><screenShot>screenshot_3.png</screenShot><screenShot>screenshot_4.png</screenShot><screenShot>screenshot_5.png</screenShot><screenShot>screenshot_6.png</screenShot><screenShot>screenshot_7.png</screenShot></screenShotList>
+
+</psmMeta>

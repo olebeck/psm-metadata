@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00105_00">
+
+  <appVersion>1.01</appVersion>
+  <runtimeVersion>1.00</runtimeVersion>
+  <packageSize>23863712</packageSize>
+  <localizedMetadataList default_locale="en"><localizedMeta locale="en"><description><![CDATA[It is an adventure type novel game which reads and advances a story, chooses action on a specific aspect of affairs, and advances the game. <BR>A game is performed by screen touch operation. <BR>Sorry. Language is only Japanese. <BR><BR>Package size: 23 MB - More storage space required for install<BR><BR>Compatibility information:<BR>Number of players for local play: 1 Player<BR><BR>Supported interfaces/sensors<BR>- Touchscreen<BR><BR>Supported languages:<BR>Japanese<BR><BR>Copyright 2013 inosan298<BR><BR>]]></description></localizedMeta><localizedMeta locale="ja"><description><![CDATA[ストーリーを読み進め、特定の局面で行動を選択し、ゲームを進めていくアドベンチャータイプのノベルゲームです。<BR>ゲームは画面タッチ操作で行います。<BR>サポートする言語は日本語のみです。 <BR><BR>コンテンツ容量: 23 MB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR><BR>対応言語:<BR>日本語<BR><BR>著作権等:<BR>Copyright 2013 inosan298<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Adventure"/><genre value="Games:Horror"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_7.png</ratingLogo><contentDescriptor>PEGIEX_Fear.png</contentDescriptor><contentDescriptor>PEGIEX_Violence.png</contentDescriptor></rating><rating type="SELF"><ratingLogo>SELF_16.png</ratingLogo><contentDescriptor>SELF_Fear.png</contentDescriptor><contentDescriptor>SELF_Violence.png</contentDescriptor></rating><rating type="ESRB"><ratingLogo>ESRB_13.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_1.png</screenShot><screenShot>screenshot_2.png</screenShot><screenShot>screenshot_3.png</screenShot></screenShotList>
+
+</psmMeta>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00345_00">
+
+  <appVersion>1.01</appVersion>
+  <runtimeVersion>2.00</runtimeVersion>
+  <packageSize>23842816</packageSize>
+  <localizedMetadataList default_locale="en"><localizedMeta locale="en"><description><![CDATA[THIS CONTENT IS NOT COMPATIBLE WITH Android™ DEVICES.<BR><BR>Would you play folk harp(34 strings)? <BR><BR>Package size: 23 MB - More storage space required for install<BR><BR>Compatibility information:<BR>Number of players for local play: 1 Player<BR><BR>Supported interfaces/sensors<BR>- Touchscreen<BR><BR>Supported languages:<BR>English(United States)/Japanese<BR><BR>Copyright(C) 2015 Tanaka Kenji. All Rights Reserved<BR><BR>Android is a trademark of Google Inc.<BR><BR>]]></description></localizedMeta><localizedMeta locale="ja"><description><![CDATA[このコンテンツはAndroid™端末非対応です。<BR><BR>フォークハープ(34弦)をプレイして頂けませんか？ <BR><BR>コンテンツ容量: 23 MB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR><BR>対応言語:<BR>英語(アメリカ)/日本語<BR><BR>著作権等:<BR>Copyright(C) 2015 Tanaka Kenji. All Rights Reserved<BR><BR>Android is a trademark of Google Inc.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Apps:Music"/><genre value="Apps:Education"/></genreList>
+  <ratingList default="SELF"><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_5.png</screenShot><screenShot>screenshot_6.png</screenShot><screenShot>screenshot_7.png</screenShot></screenShotList>
+
+</psmMeta>

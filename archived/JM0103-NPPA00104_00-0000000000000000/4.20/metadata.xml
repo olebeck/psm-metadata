@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00104_00">
+
+  <appVersion>4.20</appVersion>
+  <runtimeVersion>1.20</runtimeVersion>
+  <packageSize>6950608</packageSize>
+  <localizedMetadataList default_locale="ja"><localizedMeta locale="ja"><description><![CDATA[2ちゃんねるブラウザです。<BR><BR>Ver 4.2の新機能:<BR>板名による板の検索、スレッドタイトルで2ch全体からスレッドを検索、<BR>あるIDのレスを板全体から探す機能、<BR>お気に入りをフォルダに分けたり履歴をカスタマイズする機能が追加されました。<BR><BR>描画エンジンを更新してスクロールを高速化しました。<BR><BR>すべての操作をボタンでも出来るようにしました。<BR>ボタン操作のヘルプを常に表示できるようにしました。<BR><BR>その他にも多数の使い勝手に係る変更があります。<BR><BR>Ver 4.1の新機能:<BR>したらば掲示板に対応しました。<BR>(アダルト板は開けません。レス数が1000を超える板には現在対応していません)<BR><BR>不具合修正:<BR>IDやURLリンクのないレスの選択中に方向キー右を押すとフリーズするバグを修正しました。<BR><BR>Ver 4.0の新機能:<BR>大部分の操作をスティックやボタンでも行えるようになりました。<BR><BR>前からある機能:<BR>大きく表示できる1画面モード・疲れにくい2画面モード<BR>レスのツリー表示、ID抽出,赤レス、自分のレスの抽出<BR>勢い、新着、スレ順でのソート、既読スレの抽出<BR>スレタイ検索や次スレ検索<BR>通常の書き込みやP2による書き込み　書き込み制限時間の警告やカウントダウンNGID,Name,Word,連鎖NG<BR>崩れにくいAA<BR>パートスレを登録して新着を自動取得、<BR>コピー&amp;ペースト、メモ機能。<BR>板ごとのコテハン設定機能。<BR>など <BR><BR>コンテンツ容量: 6788 KB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR>- コントローラーまたは、オンスクリーンコントローラー<BR><BR>対応言語:<BR>日本語<BR><BR>著作権等:<BR>Copyright (C) 2012-2013 Yamaoka Technology All Rights Reserved.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Apps:Communication"/><genre value="Apps:Entertainment"/></genreList>
+  <ratingList default="SELF"><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_16.png</screenShot><screenShot>screenshot_17.png</screenShot><screenShot>screenshot_24.png</screenShot><screenShot>screenshot_25.png</screenShot><screenShot>screenshot_26.png</screenShot><screenShot>screenshot_27.png</screenShot></screenShotList>
+
+</psmMeta>

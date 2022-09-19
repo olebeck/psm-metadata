@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<psmMeta npTitleId="NPPA00013_00">
+ <appVersion>1.03</appVersion>
+ <runtimeVersion>1.00</runtimeVersion>
+ <packageSize>27788704</packageSize>
+ <localizedMetadataList default_locale="ja">
+  <localizedMeta locale="ja">
+   <description><![CDATA[世界中で大人気のパズルゲーム、ナンプレ（ナンバープレイス）が圧倒的ボリュームで登場！<br>問題数は5段階の難易度別に各2,000問ずつ、合計10,000問を収録！<br>自分のレベルに合わせてナンプレの世界をたっぷり遊びつくそう！<br><br>コンテンツ容量:27 MB<br><br>プレイ人数:1人<br><br>対応機能:<br> - タッチスクリーン<br> - コントローラーまたは、オンスクリーンコントローラー<br> - モーションセンサー<br><br>対応言語:<br>日本語<br><br>著作権等:<br> (C) 2012 SUCCESS Corporation. ALL RIGHTS RESERVED.<br><br>]]></description>
+  </localizedMeta>
+ </localizedMetadataList>
+ <genreList>
+  <genre value="Games:Puzzle"/>
+ </genreList>
+ <ratingList default="SELF">
+  <rating type="ESRB">
+   <ratingLogo>ESRB_3.png</ratingLogo>
+  </rating>
+  <rating type="PEGIEX">
+   <ratingLogo>PEGIEX_3.png</ratingLogo>
+  </rating>
+  <rating type="SELF">
+   <ratingLogo>SELF_3.png</ratingLogo>
+  </rating>
+ </ratingList>
+ <screenShotList>
+  <screenShot>screenshot_1.png</screenShot>
+  <screenShot>screenshot_2.png</screenShot>
+  <screenShot>screenshot_3.png</screenShot>
+  <screenShot>screenshot_4.png</screenShot>
+  <screenShot>screenshot_5.png</screenShot>
+  <screenShot>screenshot_6.png</screenShot>
+  <screenShot>screenshot_7.png</screenShot>
+  <screenShot>screenshot_8.png</screenShot>
+ </screenShotList>
+</psmMeta>

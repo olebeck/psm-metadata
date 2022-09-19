@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00193_00">
+
+  <appVersion>1.01</appVersion>
+  <runtimeVersion>4.03</runtimeVersion>
+  <packageSize>61232320</packageSize>
+  <localizedMetadataList default_locale="en"><localizedMeta locale="en_GB"><description><![CDATA[THIS CONTENT IS NOT COMPATIBLE WITH Android™ DEVICES.<BR><BR>This is a tower defense game.<BR>You place the units on the field to protect the castle from the monsters. <BR><BR>Package size: 59 MB - More storage space required for install<BR><BR>Compatibility information:<BR>Number of players for local play: 1 Player<BR><BR>Supported interfaces/sensors<BR>- Touchscreen<BR><BR>Supported languages:<BR>English(United States)/Japanese<BR><BR>Copyright(C) 2014 RewriteWorks<BR><BR>Android is a trademark of Google Inc.<BR><BR>]]></description></localizedMeta><localizedMeta locale="en"><description><![CDATA[THIS CONTENT IS NOT COMPATIBLE WITH Android™ DEVICES.<BR><BR>This is a tower defense game.<BR>You place the units on the field to protect the castle from the monsters. <BR><BR>Package size: 59 MB - More storage space required for install<BR><BR>Compatibility information:<BR>Number of players for local play: 1 Player<BR><BR>Supported interfaces/sensors<BR>- Touchscreen<BR><BR>Supported languages:<BR>English(United States)/Japanese<BR><BR>Copyright(C) 2014 RewriteWorks<BR><BR>Android is a trademark of Google Inc.<BR><BR>]]></description></localizedMeta><localizedMeta locale="ja"><description><![CDATA[このコンテンツはAndroid™端末非対応です。<BR><BR>ユニットを配置してモンスターを撃退し、城を守るタワーディフェンスゲームです。 <BR>個性的なモンスターたちは5体1組で襲撃してきます。<BR>襲撃の合間にはユニットの配置・売却が可能です。<BR>ユニットの特性を活かし、クリアを目指しましょう。 <BR><BR>コンテンツ容量: 59 MB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR><BR>対応言語:<BR>英語(アメリカ)/日本語<BR><BR>著作権等:<BR>Copyright(C) 2014 RewriteWorks<BR><BR>Android is a trademark of Google Inc.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Strategy"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_12.png</ratingLogo><contentDescriptor>PEGIEX_Violence.png</contentDescriptor></rating><rating type="SELF"><ratingLogo>SELF_12.png</ratingLogo><contentDescriptor>SELF_Violence.png</contentDescriptor></rating><rating type="ESRB"><ratingLogo>ESRB_13.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_7.png</screenShot><screenShot>screenshot_3.png</screenShot><screenShot>screenshot_8.png</screenShot></screenShotList>
+
+</psmMeta>

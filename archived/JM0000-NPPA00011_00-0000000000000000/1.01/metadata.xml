@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<psmMeta npTitleId="NPPA00011_00">
+ <appVersion>1.01</appVersion>
+ <runtimeVersion>1.00</runtimeVersion>
+ <packageSize>49593872</packageSize>
+ <localizedMetadataList default_locale="ja">
+  <localizedMeta locale="ja">
+   <description><![CDATA[『ミスタードリラー』のコンビが贈るアクションパズルゲーム『クルトン』が、<br>PS3®とPSP®に続いて、お手軽価格になってPSMに登場！！<br><br>ルールは簡単、1～4の数字のキューブを回転させ、同じ数字を正方形に揃えるだけ。<br>誰でも覚えられるシンプルなルールとコンボの爽快感はやみつき必至！<br>さあ、キミはどれだけのコンボを引き起こせるかな・・・？ <br><br>「タイムアタックモード」「エンドレスモード」「パズルモード」3つのモードを搭載！<br><br>※PS3®版およびPSP®版と仕様が異なります。<br>ゲームモードはすべて収録されていますが、ボイスやデモは収録されていません。<br><br>コンテンツ容量:48 MB<br><br>プレイ人数:1人<br><br>対応機能:<br> - タッチスクリーン<br> - コントローラーまたは、オンスクリーンコントローラー<br><br>対応言語:<br>日本語<br><br>著作権等:<br>c2009　Sony Computer Entertainment Inc.<br><br>]]></description>
+  </localizedMeta>
+ </localizedMetadataList>
+ <genreList>
+  <genre value="Games:Puzzle"/>
+ </genreList>
+ <ratingList default="SELF">
+  <rating type="ESRB">
+   <ratingLogo>ESRB_3.png</ratingLogo>
+  </rating>
+  <rating type="PEGIEX">
+   <ratingLogo>PEGIEX_3.png</ratingLogo>
+  </rating>
+  <rating type="SELF">
+   <ratingLogo>SELF_3.png</ratingLogo>
+  </rating>
+ </ratingList>
+ <screenShotList>
+  <screenShot>screenshot_1.png</screenShot>
+  <screenShot>screenshot_2.png</screenShot>
+  <screenShot>screenshot_3.png</screenShot>
+  <screenShot>screenshot_4.png</screenShot>
+ </screenShotList>
+</psmMeta>

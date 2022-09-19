@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<psmMeta npTitleId="NPPA00014_00">
+ <appVersion>1.01</appVersion>
+ <runtimeVersion>1.00</runtimeVersion>
+ <packageSize>223153696</packageSize>
+ <localizedMetadataList default_locale="ja">
+  <localizedMeta locale="ja">
+   <description><![CDATA[切なくも儚い、1人の少女と4人の青年の物語――<br><br>人々が10本の大樹『聖なる樹』を崇めている平和な世界。<br>悠久の時の中、守り続けてきた『聖なる樹』が、突如、何者かによって切り倒されてしまう。<br>「樹を傷つけた【世界の敵】には、罪を償わせよ」<br>世界が混乱に陥る中、一国の姫である貴女は事件の真相を求め旅にでる。<br><br>幼なじみの従者、オレ様な王子、クールな魔術師、そして、正体不明の美貌の旅人。<br>旅を通じ、彼との絆を深める中で生まれる淡い恋心。<br>しかし、運命は無情にも残酷な真実を突きつける。<br>――果たして、この恋を貫き通すことはできるの？<br><br>｢浪川大輔／中井和哉／野島健児／近藤隆｣の豪華声優陣が出演！<br>個性的な仲間と貴方の織り成す、甘く切ないラブストーリー<br>女性向け恋愛ADV『ラスプレ　Last　Precious』をお楽しみに！<br><br>コンテンツ容量:213 MB<br><br>プレイ人数:1人<br><br>対応機能:<br> - タッチスクリーン<br> - コントローラーまたは、オンスクリーンコントローラー<br> - モーションセンサー<br><br>対応言語:<br>日本語<br><br>著作権等:<br>Copyright (C) 2012 eitarosoft,inc. All Rights Reserved.<br><br>]]></description>
+  </localizedMeta>
+ </localizedMetadataList>
+ <genreList>
+  <genre value="Games:Adventure"/>
+  <genre value="Games:Simulation"/>
+ </genreList>
+ <ratingList default="SELF">
+  <rating type="ESRB">
+   <ratingLogo>ESRB_3.png</ratingLogo>
+  </rating>
+  <rating type="PEGIEX">
+   <ratingLogo>PEGIEX_3.png</ratingLogo>
+  </rating>
+  <rating type="SELF">
+   <ratingLogo>SELF_3.png</ratingLogo>
+  </rating>
+ </ratingList>
+ <screenShotList>
+  <screenShot>screenshot_1.png</screenShot>
+  <screenShot>screenshot_2.png</screenShot>
+  <screenShot>screenshot_3.png</screenShot>
+  <screenShot>screenshot_4.png</screenShot>
+  <screenShot>screenshot_5.png</screenShot>
+ </screenShotList>
+</psmMeta>

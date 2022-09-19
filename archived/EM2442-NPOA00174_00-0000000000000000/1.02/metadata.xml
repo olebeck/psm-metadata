@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPOA00174_00">
+
+  <appVersion>1.02</appVersion>
+  <runtimeVersion>1.21</runtimeVersion>
+  <packageSize>7781616</packageSize>
+  <localizedMetadataList default_locale="de"><localizedMeta locale="de"><description><![CDATA[Maus San muss zur Absolvierung seiner Prüfung 10 Räumlichkeiten im Turm FoLu durchlaufen. In jedem Raum hat er die Aufgabe 10 Käseteller für seinen Meister einzusammeln.<BR><BR>Schaffen Sie es allen Gefahren zu trotzen und Ihren Preis vom Meister persönlich entgegen zunehmen? <BR><BR>Paketgröße: 7600 KB - Mehr Speicherplatz für die Installation erforderlich <BR><BR>Kompatibilitätsinformationen:<BR>Anzahl von Spielern für lokales Spiel: 1 Spieler<BR><BR>Unterstützte Schnittstellen/Sensoren<BR>- Touchscreen<BR>- Controller/Bildschirm-Controller<BR><BR>Unterstützte Sprachen:<BR>Deutsch<BR><BR>2014<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Family"/><genre value="Games:Fighting"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_3.png</ratingLogo></rating><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating><rating type="ESRB"><ratingLogo>ESRB_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_1.png</screenShot><screenShot>screenshot_2.png</screenShot><screenShot>screenshot_3.png</screenShot></screenShotList>
+
+</psmMeta>

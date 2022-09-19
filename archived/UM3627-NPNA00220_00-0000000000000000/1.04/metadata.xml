@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPNA00220_00">
+
+  <appVersion>1.04</appVersion>
+  <runtimeVersion>4.03</runtimeVersion>
+  <packageSize>113222736</packageSize>
+  <localizedMetadataList default_locale="en"><localizedMeta locale="en"><description><![CDATA[THIS CONTENT IS NOT COMPATIBLE WITH Android™ DEVICES.<BR><BR>Stranded in space with a defective engine and countless monsters closing in, can you find the powers hidden deep in the galaxy to unlock the true power of your ship?<BR>Galactic Junk is a fast-paced space shooter with simple controls, addicting game mechanics, and unique enemies that are discovered the farther the player travels. With loads of ship upgrades, mission objectives, and built-in high scores, it is hard to step away from this game.<BR><BR>The controls of Galactic Junk are simple yet challenging. Click or touch anywhere on the screen to shoot in that direction. Your ship in turn will travel into the opposite direction. This means that players must find the perfect balance between shooting and moving to succeed.<BR><BR>The main goal of the game is to get a high distance. <BR><BR>Package size: 108 MB - More storage space required for install<BR><BR>Compatibility information:<BR>Number of players for local play: 1 Player<BR><BR>Supported interfaces/sensors<BR>- Touchscreen<BR>- Controller / On-screen controller<BR><BR>Supported languages:<BR>English(United States)<BR><BR>Copyright © 2014 by Upside Down Bird<BR><BR>Android is a trademark of Google Inc.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Arcade"/><genre value="Games:Shooter"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_7.png</ratingLogo><contentDescriptor>PEGIEX_Violence.png</contentDescriptor></rating><rating type="SELF"><ratingLogo>SELF_7.png</ratingLogo><contentDescriptor>SELF_Violence.png</contentDescriptor></rating><rating type="ESRB"><ratingLogo>ESRB_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_1.png</screenShot><screenShot>screenshot_2.png</screenShot><screenShot>screenshot_3.png</screenShot><screenShot>screenshot_4.png</screenShot><screenShot>screenshot_5.png</screenShot><screenShot>screenshot_6.png</screenShot><screenShot>screenshot_7.png</screenShot></screenShotList>
+
+</psmMeta>

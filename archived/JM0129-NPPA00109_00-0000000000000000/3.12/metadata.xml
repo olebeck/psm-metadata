@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00109_00">
+
+  <appVersion>3.12</appVersion>
+  <runtimeVersion>1.21</runtimeVersion>
+  <packageSize>6969120</packageSize>
+  <localizedMetadataList default_locale="ja"><localizedMeta locale="ja"><description><![CDATA["すなあらし 2ch" はPlayStation®Mobile上で使用可能な２ちゃんねる専用ブラウザです。ボタン操作・パネルタッチ操作で軽快に操作できることを目指して作成されています。<BR><BR>--- "すなあらし 2ch" が対応している掲示板等 ---<BR>2ch.sc、Open2ch、Next2ch、まちBBS、したらば掲示板、ふたば☆ちゃんねる、4chan、その他2ch互換掲示板の閲覧、レス投稿、スレ立て等に対応<BR><BR>--- "すなあらし 2ch" の主な機能 ---<BR>(1) 被参照回数によりレス番号を色分け、発言回数によりIDを色分け<BR>(2) 参照先のレス、同一IDのレスをポップアップ<BR>(3) 被参照回数の多いレス、発言回数の多いID、画像や動画等を含むレス、自分のレス等を抽出する機能<BR>(4) 次スレ検索機能、次スレを立てる機能<BR>(5) 画像や動画等のサムネイルをレスの下に作成する機能<BR>(6) スレッドの自動更新機能<BR>(7) スレッド内の盛り上がり箇所を表示する機能<BR>(8) NG機能（NGWord、NGName、NGID、連鎖NG）<BR>(9) 通常モードと電子書籍モード<BR><BR>*** アップデート情報 ***<BR>ver. 3.12<BR>(1) 2ch.sc、Open2ch、Next2ch、2ch互換掲示板に対応<BR>(2) レス投稿時に現在の時間を秒数まで確認できるように変更<BR>(3) その他いくつかの不具合の修正<BR><BR>ご要望・ご質問等ございましたら、下記までご連絡下さいますようお願い致します。<BR>ツイッター： https://twitter.com/Annelish2012<BR>メール： anneliesh2012@gmail.com <BR><BR>コンテンツ容量: 6806 KB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR>- コントローラーまたは、オンスクリーンコントローラー<BR><BR>対応言語:<BR>日本語<BR><BR>著作権等:<BR>Copyright (C) 2013 Annelish All Rights Reserved.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Apps:SocialNetworking"/></genreList>
+  <ratingList default="SELF"><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_48.png</screenShot><screenShot>screenshot_51.png</screenShot><screenShot>screenshot_52.png</screenShot><screenShot>screenshot_50.png</screenShot><screenShot>screenshot_53.png</screenShot><screenShot>screenshot_49.png</screenShot></screenShotList>
+
+</psmMeta>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPNA00162_00">
+
+  <appVersion>1.03</appVersion>
+  <runtimeVersion>1.21</runtimeVersion>
+  <packageSize>19106128</packageSize>
+  <localizedMetadataList default_locale="en"><localizedMeta locale="en"><description><![CDATA[Reflect It is a puzzle platformer.  Using the power of reflection, mirror the world to get through obstacles. <BR><BR>Package size: 19 MB - More storage space required for install<BR><BR>Compatibility information:<BR>Number of players for local play: 1 Player<BR><BR>Supported interfaces/sensors<BR>- Touchscreen<BR>- Controller / On-screen controller<BR><BR>Supported languages:<BR>English(United States)<BR><BR>© 2014 Pull the Plug Studios, LLC<BR><BR>]]></description></localizedMeta><localizedMeta locale="fr"><description><![CDATA[Reflect C'est un jeu de plateforme puzzle. Grâce à la puissance de réflexion, miroir du monde pour passer à travers les obstacles. <BR><BR>Taille du paquet : 19 Mo - Nécessite un plus grand espace de stockage pour l’installation<BR><BR>Informations sur la compatibilité :<BR>Nombre de joueurs pour jeu local : 1 joueur<BR><BR>Interfaces/détecteurs pris en charge<BR>- Écran tactile<BR>- Manette / Manette à l’écran<BR><BR>Langues prises en charge :<BR>Anglais(États-Unis)<BR><BR>© 2014 Pull the Plug Studios, LLC<BR><BR>]]></description></localizedMeta><localizedMeta locale="ja"><description><![CDATA[「それを反映」とは、パズルのプラットフォーマーである。反射の電力を使用して、障害物を介して取得する世界を反映しています。 <BR><BR>コンテンツ容量: 19 MB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR>- コントローラーまたは、オンスクリーンコントローラー<BR><BR>対応言語:<BR>英語(アメリカ)<BR><BR>著作権等:<BR>© 2014 Pull the Plug Studios, LLC<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Puzzle"/><genre value="Games:Unique"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_3.png</ratingLogo></rating><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating><rating type="ESRB"><ratingLogo>ESRB_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_1.png</screenShot><screenShot>screenshot_2.png</screenShot><screenShot>screenshot_3.png</screenShot></screenShotList>
+
+</psmMeta>

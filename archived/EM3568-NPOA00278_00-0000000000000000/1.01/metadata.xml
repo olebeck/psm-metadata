@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPOA00278_00">
+
+  <appVersion>1.01</appVersion>
+  <runtimeVersion>2.00</runtimeVersion>
+  <packageSize>4612160</packageSize>
+  <localizedMetadataList default_locale="en"><localizedMeta locale="en"><description><![CDATA[THIS CONTENT IS NOT COMPATIBLE WITH Android™ DEVICES.<BR><BR>** ONLY FOR PlayStation®Vita DEVICES **<BR><BR>The hugely popular smartphone app comes to PlayStation®Vita.<BR><BR>Key Features:<BR><BR>- Variety of birds to select<BR>- Multiple levels of difficulty<BR>- Highscore board<BR>- 12 unlockable awards (birds, pipes, medals)<BR>- Flag markers for 1st, 2nd and 3rd places in the levels<BR>- Set lives on or off<BR>- Enable or disable sounds<BR>- Show or hide the game HUD<BR>- Set touch or button controls<BR>- Play in a horizontal or vertical view mode<BR>- Exclusive extra Mode999 in this version of the game (enabled in settings) <BR><BR>Package size: 4505 KB - More storage space required for install<BR><BR>Compatibility information:<BR>Number of players for local play: 1 Player<BR><BR>Supported interfaces/sensors<BR>- Touchscreen<BR>- Controller / On-screen controller<BR><BR>Supported languages:<BR>English(United States)/English(United Kingdom)<BR><BR>Copyright (c) 2015 Simon Rybicki<BR><BR>Android is a trademark of Google Inc.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Arcade"/><genre value="Games:Action"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_3.png</ratingLogo></rating><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating><rating type="ESRB"><ratingLogo>ESRB_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_1.png</screenShot><screenShot>screenshot_2.png</screenShot><screenShot>screenshot_3.png</screenShot><screenShot>screenshot_4.png</screenShot><screenShot>screenshot_5.png</screenShot><screenShot>screenshot_6.png</screenShot><screenShot>screenshot_7.png</screenShot><screenShot>screenshot_8.png</screenShot><screenShot>screenshot_9.png</screenShot><screenShot>screenshot_10.png</screenShot></screenShotList>
+
+</psmMeta>

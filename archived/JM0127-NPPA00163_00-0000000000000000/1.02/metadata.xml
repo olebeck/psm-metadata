@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00163_00">
+
+  <appVersion>1.02</appVersion>
+  <runtimeVersion>1.21</runtimeVersion>
+  <packageSize>33381248</packageSize>
+  <localizedMetadataList default_locale="ja"><localizedMeta locale="ja"><description><![CDATA[※※※　このゲームにおいての注意　※※※<BR><BR>　いわゆる「死にゲー」、「覚えゲー」の類いです。「心折れ」しやすい方々には全く<BR>お勧め出来ませんので、どうかそのことを念頭に置いて下さい。また大した物語はなく<BR>場合によっては単純作業に陥るかもしれません。ＲＰＧのダンジョン等で見られる言わ<BR>ば「謎解き」の部分をメインにした作品ですので、そういった要素が苦手な方々にも向<BR>いていないかと思われます。<BR><BR>・ゲームの概要<BR><BR>　アクティブ・アドベンチャーゲームです。ヒロインを操作して屋敷に点在する品々を<BR>収集するのが目的です。もちろん一筋縄ではなく、色々な仕掛けや罠を突破しなければ<BR>なりません。中には謎かけも用意されており、ヒントとなるメッセージを解読しなけれ<BR>ばならないこともあります。最初は館に現れるお邪魔キャラすらも迎撃することができ<BR>ない状態です。謎を解くことで武器等探索に役立つアイテムを得ることができますが、<BR>序盤は本当にストレスを感じるかもしれません。何度も説明するようですが、ゲームを<BR>手軽に楽しみたい方はご遠慮下さい。ぶっちゃけた話になりますが、このゲームの謎や<BR>仕掛けを考えた製作者でさえ気を抜くと、あれよあれよと失敗してしまう有様です。<BR>　注意深いプレイがクリアの鍵となることでしょう。<BR><BR>Ver.1.02の変更点<BR>・行動不能に陥った時の経験値(隠しパラメータなのでゲーム進行に影響はありませんが<BR>難易度に関係してきます)が保存されず、アプリを閉じるとリセットされるバグを修正。 <BR><BR>コンテンツ容量: 32 MB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR>- コントローラーまたは、オンスクリーンコントローラー<BR><BR>対応言語:<BR>日本語<BR><BR>著作権等:<BR>(C)2013 Nia Proj. All rights reserved.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Adventure"/><genre value="Games:Action"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_16.png</ratingLogo><contentDescriptor>PEGIEX_Sex.png</contentDescriptor></rating><rating type="SELF"><ratingLogo>SELF_16.png</ratingLogo><contentDescriptor>SELF_Sex.png</contentDescriptor></rating><rating type="ESRB"><ratingLogo>ESRB_17.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_1.png</screenShot><screenShot>screenshot_2.png</screenShot><screenShot>screenshot_3.png</screenShot><screenShot>screenshot_4.png</screenShot><screenShot>screenshot_5.png</screenShot><screenShot>screenshot_6.png</screenShot><screenShot>screenshot_7.png</screenShot><screenShot>screenshot_8.png</screenShot></screenShotList>
+
+</psmMeta>

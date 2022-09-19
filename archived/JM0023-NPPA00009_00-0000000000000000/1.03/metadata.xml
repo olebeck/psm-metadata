@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<psmMeta npTitleId="NPPA00009_00">
+ <appVersion>1.03</appVersion>
+ <runtimeVersion>1.00</runtimeVersion>
+ <packageSize>25931104</packageSize>
+ <localizedMetadataList default_locale="ja">
+  <localizedMeta locale="ja">
+   <description><![CDATA[判断になやんだ時、決断を迫られた時、白黒がはっきり付けられない草食系のあなたに贈る、即決決断促進アプリがこの「白黒ガッツリつけるクマ」です。<br><br>様々なカテゴリーから今の状況に適したシチュエーションを選んだり、自分の心に描いた選択肢の判断を委ねたりと、様々な悩みを解消していきます。<br>また、大人数でのグループ分けから代表者の選抜まで、個人の悩みだけでなくパーティーアイテムとしてもフル活用が出来ます。<br><br>１端末での１vs１のガチバトルや、じゃんけんセットによるネット対戦など、リアルとネットでソーシャル性を向上。<br>クマアイテムを使ったネット対戦はありそうで無かった、カジュアルバトルが楽しめます。<br>更にクマアイテムは続々更新予定です。<br><br>場所とユーザーを全く選ばない、カジュアルパーティアプリの決定版！<br><br>コンテンツ容量:25 MB<br><br>プレイ人数:1-16人<br>オンラインマルチプレイ:2人<br><br>対応機能:<br> - タッチスクリーン<br><br>対応言語:<br>日本語<br><br>著作権等:<br>Copyright (C) 2012 BoobyTrap.,Ltd. All Rights Reserved.<br><br>]]></description>
+  </localizedMeta>
+ </localizedMetadataList>
+ <genreList>
+  <genre value="Games:Party"/>
+ </genreList>
+ <ratingList default="SELF">
+  <rating type="ESRB">
+   <ratingLogo>ESRB_3.png</ratingLogo>
+  </rating>
+  <rating type="PEGIEX">
+   <ratingLogo>PEGIEX_3.png</ratingLogo>
+   <contentDescriptor>PEGIEX_Online.png</contentDescriptor>
+  </rating>
+  <rating type="SELF">
+   <ratingLogo>SELF_3.png</ratingLogo>
+   <contentDescriptor>SELF_Online.png</contentDescriptor>
+  </rating>
+ </ratingList>
+ <screenShotList>
+  <screenShot>screenshot_1.png</screenShot>
+  <screenShot>screenshot_2.png</screenShot>
+  <screenShot>screenshot_3.png</screenShot>
+  <screenShot>screenshot_4.png</screenShot>
+  <screenShot>screenshot_5.png</screenShot>
+  <screenShot>screenshot_6.png</screenShot>
+  <screenShot>screenshot_7.png</screenShot>
+ </screenShotList>
+</psmMeta>

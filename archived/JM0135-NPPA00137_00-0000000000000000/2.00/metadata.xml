@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00137_00">
+
+  <appVersion>2.00</appVersion>
+  <runtimeVersion>1.21</runtimeVersion>
+  <packageSize>7960720</packageSize>
+  <localizedMetadataList default_locale="ja"><localizedMeta locale="ja"><description><![CDATA[aramakiScopeがバージョン2.0にバージョンアップしました。<BR>UIデザインを根底から見直し、サブウィンドウ形式としました。<BR>また、ご要望に多かった、キーボード画面の最適化等様々な点で手を入れてあります。<BR>今後は出来得る限り円滑なバージョンアップを実現するべく作業を進めてまいります。 <BR><BR>コンテンツ容量: 7775 KB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR>- コントローラーまたは、オンスクリーンコントローラー<BR><BR>対応言語:<BR>日本語<BR><BR>著作権等:<BR>(C) 2013-2014 HAGE SOFT<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Apps:Communication"/></genreList>
+  <ratingList default="SELF"><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_55.png</screenShot><screenShot>screenshot_56.png</screenShot><screenShot>screenshot_57.png</screenShot><screenShot>screenshot_58.png</screenShot><screenShot>screenshot_59.png</screenShot></screenShotList>
+
+</psmMeta>

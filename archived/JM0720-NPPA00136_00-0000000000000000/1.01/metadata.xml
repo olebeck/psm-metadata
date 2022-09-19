@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00136_00">
+
+  <appVersion>1.01</appVersion>
+  <runtimeVersion>1.11</runtimeVersion>
+  <packageSize>1238416</packageSize>
+  <localizedMetadataList default_locale="ja"><localizedMeta locale="en"><description><![CDATA[This is DuelistCalculator of the Duelist,by the Duelist,for the Duelist.<BR><BR>It can easily and simply calculate LP of 2players.<BR>It also can roll the dice and toss a coin. <BR><BR>Package size: 1210 KB - More storage space required for install<BR><BR>Compatibility information:<BR>Number of players for local play: 1-2 Players<BR><BR>Supported interfaces/sensors<BR>- Touchscreen<BR><BR>Supported languages:<BR>Japanese<BR><BR>(C) 2013 Akio Ogata<BR><BR>]]></description></localizedMeta><localizedMeta locale="ja"><description><![CDATA[デュエリストの、デュエリストによる、デュエリストのためのデュエリストカリキュレーター。<BR><BR>二人分のライフポイント計算を、シンプルかつ直感的な操作で可能。<BR>サイコロ・コイン機能も付いています。 <BR><BR>コンテンツ容量: 1210 KB <BR><BR>プレイ人数: 1～2人<BR><BR>対応機能:<BR>- タッチスクリーン<BR><BR>対応言語:<BR>日本語<BR><BR>著作権等:<BR>(C) 2013 Akio Ogata<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Apps:Entertainment"/></genreList>
+  <ratingList default="SELF"><rating type="SELF"><ratingLogo>SELF_12.png</ratingLogo><contentDescriptor>SELF_Gambling.png</contentDescriptor></rating></ratingList>
+  <screenShotList><screenShot>screenshot_1.png</screenShot><screenShot>screenshot_4.png</screenShot><screenShot>screenshot_3.png</screenShot><screenShot>screenshot_2.png</screenShot></screenShotList>
+
+</psmMeta>

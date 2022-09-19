@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPNA00159_00">
+
+  <appVersion>1.02</appVersion>
+  <runtimeVersion>1.21</runtimeVersion>
+  <packageSize>10347248</packageSize>
+  <localizedMetadataList default_locale="en"><localizedMeta locale="en"><description><![CDATA[Mow down hoards of zombies as you fight to survive in this action packed shooter. Acquire many different types of weapons to kill the undead and use bombs to wipe the screen out. Try all the different modes such as.<BR><BR>Survival- Protect yourself and fight nonstop as zombies try to kill you.<BR><BR>Protect the VIP- Protect the VIP as he runs around the screen but donâ€™t worry because he also has two bodyguards<BR><BR>Protect the People- Protect a group of people as they run around the screen.<BR><BR>Get the high score in these exciting modes! How long can you last? <BR><BR>Package size: 10 MB - More storage space required for install<BR><BR>Compatibility information:<BR>Number of players for local play: 1 Player<BR><BR>Supported interfaces/sensors<BR>- Touchscreen<BR>- Controller / On-screen controller<BR><BR>Supported languages:<BR>English(United States)<BR><BR>Copyright (C) 2014 Green Deer Games All Rights Reserved.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Action"/><genre value="Games:Shooter"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_16.png</ratingLogo><contentDescriptor>PEGIEX_Violence.png</contentDescriptor></rating><rating type="SELF"><ratingLogo>SELF_16.png</ratingLogo><contentDescriptor>SELF_Violence.png</contentDescriptor></rating><rating type="ESRB"><ratingLogo>ESRB_13.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_1.png</screenShot><screenShot>screenshot_2.png</screenShot><screenShot>screenshot_3.png</screenShot></screenShotList>
+
+</psmMeta>

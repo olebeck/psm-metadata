@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00137_00">
+
+  <appVersion>2.01</appVersion>
+  <runtimeVersion>1.21</runtimeVersion>
+  <packageSize>7994352</packageSize>
+  <localizedMetadataList default_locale="ja"><localizedMeta locale="ja"><description><![CDATA[aramakiScopeは2ch専用ブラウザです。<BR><BR>2.01アップデート内容<BR><BR>●フォーカス移動調整<BR>●サブウィンドウ内リンククリック時の処理を修正<BR>●レス画面リロード処理時間の短縮<BR>●アプリケーションロード時間の短縮<BR>●一部UI調整<BR>●一部バグの修正 <BR><BR>コンテンツ容量: 7807 KB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR>- コントローラーまたは、オンスクリーンコントローラー<BR><BR>対応言語:<BR>日本語<BR><BR>著作権等:<BR>(C) 2013-2014 HAGE SOFT<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Apps:Communication"/></genreList>
+  <ratingList default="SELF"><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_55.png</screenShot><screenShot>screenshot_56.png</screenShot><screenShot>screenshot_57.png</screenShot><screenShot>screenshot_58.png</screenShot><screenShot>screenshot_59.png</screenShot></screenShotList>
+
+</psmMeta>

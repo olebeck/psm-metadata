@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPNA00170_00">
+
+  <appVersion>1.02</appVersion>
+  <runtimeVersion>1.21</runtimeVersion>
+  <packageSize>2921504</packageSize>
+  <localizedMetadataList default_locale="en"><localizedMeta locale="en"><description><![CDATA[dong is an arcade classic where you try to hit a ball to your enemy's side and they try to block it. Once blocked the ball comes back to your side where you try to block it. Once you or your enemy fails to block it the other person gets a point, first one to ten wins.<BR><BR>dong has 4 modes<BR><BR>1 player easy- your enemy just tries to hit the ball back<BR><BR>1 player medium- your enemy tries to score on you<BR><BR>1 player hard- your enemy calculates exactly where the ball will be and then tries to score on you<BR><BR>2 player- play your friend in dong <BR><BR>Package size: 2854 KB - More storage space required for install<BR><BR>Compatibility information:<BR>Number of players for local play: 1-2 Players<BR><BR>Supported interfaces/sensors<BR>- Touchscreen<BR>- Controller / On-screen controller<BR><BR>Supported languages:<BR>English(United States)<BR><BR>Copyright (C) 2014 Green Deer Games All Rights Reserved.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Arcade"/><genre value="Games:Action"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_3.png</ratingLogo></rating><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating><rating type="ESRB"><ratingLogo>ESRB_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_3.png</screenShot><screenShot>screenshot_4.png</screenShot><screenShot>screenshot_2.png</screenShot></screenShotList>
+
+</psmMeta>

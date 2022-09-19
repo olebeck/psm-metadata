@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPOA00248_00">
+
+  <appVersion>1.01</appVersion>
+  <runtimeVersion>1.21</runtimeVersion>
+  <packageSize>2996880</packageSize>
+  <localizedMetadataList default_locale="en_GB"><localizedMeta locale="en_GB"><description><![CDATA[An electronic programme guide for the Films category of a certain British TV catch up service. Designed for simplicity and speed.<BR><BR>Features:<BR>- Useful search buttons for finding more information on a particular programme.<BR>- Sort results by name, length or expiry date.<BR>- Indicates which results have been newly added.<BR><BR>Please note the following:<BR>- An internet connection is required for this app to function.<BR>- This app relies on multiple third party services outside of the developer's control, some or all features may stop functioning without notice.<BR>- This is an unofficial app, please do not contact the third parties for support.<BR>- Only displays results for the Films category.<BR><BR>New in 1.01:<BR>See Chair Warming Facility website for details about Advanced Mode. <BR><BR>Package size: 2927 KB - More storage space required for install<BR><BR>Compatibility information:<BR>Number of players for local play: 1 Player<BR><BR>Supported interfaces/sensors<BR>- Touchscreen<BR><BR>Supported languages:<BR>English(United Kingdom)<BR><BR>CWF<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Apps:Video"/><genre value="Apps:Entertainment"/></genreList>
+  <ratingList default="SELF"><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_1.png</screenShot><screenShot>screenshot_2.png</screenShot><screenShot>screenshot_3.png</screenShot></screenShotList>
+
+</psmMeta>

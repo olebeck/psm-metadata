@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPNA00187_00">
+
+  <appVersion>1.10</appVersion>
+  <runtimeVersion>4.03</runtimeVersion>
+  <packageSize>24704864</packageSize>
+  <localizedMetadataList default_locale="en"><localizedMeta locale="en"><description><![CDATA[THIS CONTENT IS NOT COMPATIBLE WITH Android™ DEVICES.<BR><BR>Guide these little cute birds through a world full of danger. Unlock new birds as you progress through the game. Each bird has its own special ability from getting invisible or using time warp to a powerful explosion ability. <BR><BR>Package size: 24 MB - More storage space required for install<BR><BR>Compatibility information:<BR>Number of players for local play: 1 Player<BR><BR>Supported interfaces/sensors<BR>- Touchscreen<BR>- Controller / On-screen controller<BR><BR>Supported languages:<BR>Danish/German/English(United States)/English(United Kingdom)/Spanish/French/Italian/Dutch/Norwegian/Polish/Portuguese(Portugal)/Portuguese(Brazil)/Russian/Finnish/Swedish/Japanese/Korean/Simplified Chinese/Traditional Chinese<BR><BR>Lightning Game Studios®<BR><BR>Android is a trademark of Google Inc.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Action"/><genre value="Games:Adventure"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_3.png</ratingLogo></rating><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating><rating type="ESRB"><ratingLogo>ESRB_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_1.png</screenShot><screenShot>screenshot_3.png</screenShot><screenShot>screenshot_4.png</screenShot></screenShotList>
+
+</psmMeta>

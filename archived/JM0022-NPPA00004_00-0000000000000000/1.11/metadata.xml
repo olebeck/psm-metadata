@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00004_00">
+
+  <appVersion>1.11</appVersion>
+  <runtimeVersion>1.21</runtimeVersion>
+  <packageSize>91842048</packageSize>
+  <localizedMetadataList default_locale="ja"><localizedMeta locale="ja"><description><![CDATA[舞台は宇宙空間。物理学者フリーマン・ダイソンが提唱した、<BR>宇宙で成長することができる彗星上の植物「ダイソンツリー」<BR>をモチーフとした作品です。シンプルな円で示された惑星と、<BR>植物の種子のような「シード」と呼ばれる兵士を育てて、<BR>勢力を拡大し、それぞれのステージに定められたミッション<BR>をクリアしていきます。 <BR><BR>コンテンツ容量: 88 MB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR><BR>対応言語:<BR>日本語<BR><BR>著作権等:<BR>Copyright (C) 2012 Pygmy Studio Co., Ltd. All Rights Reserved.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Strategy"/><genre value="Games:Simulation"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_3.png</ratingLogo></rating><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating><rating type="ESRB"><ratingLogo>ESRB_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_1.png</screenShot><screenShot>screenshot_2.png</screenShot><screenShot>screenshot_3.png</screenShot><screenShot>screenshot_4.png</screenShot><screenShot>screenshot_5.png</screenShot><screenShot>screenshot_6.png</screenShot><screenShot>screenshot_7.png</screenShot><screenShot>screenshot_8.png</screenShot><screenShot>screenshot_9.png</screenShot><screenShot>screenshot_10.png</screenShot></screenShotList>
+
+</psmMeta>

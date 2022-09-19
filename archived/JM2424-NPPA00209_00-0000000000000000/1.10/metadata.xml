@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00209_00">
+
+  <appVersion>1.10</appVersion>
+  <runtimeVersion>4.03</runtimeVersion>
+  <packageSize>32554768</packageSize>
+  <localizedMetadataList default_locale="ja"><localizedMeta locale="ja"><description><![CDATA[このコンテンツはAndroid™端末非対応です。<BR><BR>背面カメラの機能を使って”ごっこ遊び”ができるアプリケーションです。<BR><BR>兵士、スパイ、異星人の戦士・・・なりきる設定はあなた次第！<BR><BR>■Ver.1.10 アップデート情報■<BR><BR>- 新モード「万華鏡」を追加しました<BR>- モード追加に伴いメニュー画面のデザインと操作方法を変更しました<BR>- 「あそびかた」画面に「万華鏡」の説明文を追加しました <BR><BR>コンテンツ容量: 32 MB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- コントローラーまたは、オンスクリーンコントローラー<BR>- カメラ<BR><BR>対応言語:<BR>日本語<BR><BR>著作権等:<BR>© 2014 Jiruo Software<BR><BR>Android is a trademark of Google Inc.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Apps:Entertainment"/></genreList>
+  <ratingList default="SELF"><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_2.png</screenShot><screenShot>screenshot_5.png</screenShot><screenShot>screenshot_6.png</screenShot><screenShot>screenshot_7.png</screenShot><screenShot>screenshot_8.png</screenShot><screenShot>screenshot_9.png</screenShot></screenShotList>
+
+</psmMeta>

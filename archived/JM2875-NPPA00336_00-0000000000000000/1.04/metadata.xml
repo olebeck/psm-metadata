@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00336_00">
+
+  <appVersion>1.04</appVersion>
+  <runtimeVersion>4.03</runtimeVersion>
+  <packageSize>192912864</packageSize>
+  <localizedMetadataList default_locale="ja"><localizedMeta locale="ja"><description><![CDATA[このコンテンツはAndroid™端末非対応です。<BR><BR>無人の道路で気ままにバスの運転をするシミュレーション・ゲーム。　オートマチック車なので簡単に運転できます。一周のタイムを測定できるモードもあります。 <BR><BR>コンテンツ容量: 184 MB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- コントローラーまたは、オンスクリーンコントローラー<BR><BR>対応言語:<BR>日本語<BR><BR>著作権等:<BR>(C)2015 Pachytene Studio<BR><BR>Android is a trademark of Google Inc.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Simulation"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_3.png</ratingLogo></rating><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating><rating type="ESRB"><ratingLogo>ESRB_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_1.png</screenShot><screenShot>screenshot_2.png</screenShot><screenShot>screenshot_3.png</screenShot><screenShot>screenshot_4.png</screenShot><screenShot>screenshot_5.png</screenShot><screenShot>screenshot_6.png</screenShot><screenShot>screenshot_7.png</screenShot><screenShot>screenshot_8.png</screenShot><screenShot>screenshot_9.png</screenShot><screenShot>screenshot_10.png</screenShot></screenShotList>
+
+</psmMeta>

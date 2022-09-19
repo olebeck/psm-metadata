@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00120_00">
+
+  <appVersion>1.13</appVersion>
+  <runtimeVersion>1.21</runtimeVersion>
+  <packageSize>3422032</packageSize>
+  <localizedMetadataList default_locale="en"><localizedMeta locale="en"><description><![CDATA[It is a simple memo application.<BR>memo can be registered by category classification, search for data, attaching image is also possible.<BR><BR>[Version1.13 Updated content]<BR>・Add create multiple files<BR>・Add a slider for memo switching<BR>・Add a memo of title to copy / paste target<BR>・Add delete confirmation display in various delete function<BR>・The number of the maximum characters of a category is increased to 20 <BR><BR>Package size: 3342 KB - More storage space required for install<BR><BR>Compatibility information:<BR>Number of players for local play: 1 Player<BR><BR>Supported interfaces/sensors<BR>- Touchscreen<BR>- Controller / On-screen controller<BR>- Camera<BR><BR>Supported languages:<BR>English(United States)/English(United Kingdom)/Japanese<BR><BR>Copyright (C) 2013 SeazDevelop All Rights Reserved.<BR><BR>]]></description></localizedMeta><localizedMeta locale="ja"><description><![CDATA[シンプルなメモアプリケーションです。<BR>メモはカテゴリー分類して登録でき、画像の添付やデータの検索も可能です。<BR><BR>[Version1.13 更新内容]<BR>・ファイルの複数作成を追加<BR>・メモ切り替え用のスライダーを追加<BR>・メモのタイトルをコピー/貼り付け対象に追加<BR>・削除確認を追加<BR>・カテゴリーの最大文字数を20に増加 <BR><BR>コンテンツ容量: 3342 KB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR>- コントローラーまたは、オンスクリーンコントローラー<BR>- カメラ<BR><BR>対応言語:<BR>英語(アメリカ)/英語(イギリス)/日本語<BR><BR>著作権等:<BR>Copyright (C) 2013 SeazDevelop All Rights Reserved.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Apps:Utilities"/></genreList>
+  <ratingList default="SELF"><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_10.png</screenShot><screenShot>screenshot_11.png</screenShot><screenShot>screenshot_12.png</screenShot><screenShot>screenshot_14.png</screenShot><screenShot>screenshot_13.png</screenShot></screenShotList>
+
+</psmMeta>

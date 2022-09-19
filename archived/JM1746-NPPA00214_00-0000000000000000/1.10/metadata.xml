@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00214_00">
+
+  <appVersion>1.10</appVersion>
+  <runtimeVersion>4.03</runtimeVersion>
+  <packageSize>79020672</packageSize>
+  <localizedMetadataList default_locale="ja"><localizedMeta locale="en"><description><![CDATA[THIS CONTENT IS NOT COMPATIBLE WITH Android™ DEVICES.<BR><BR>You exterminate monster.<BR>A simple tower defense game.<BR>There is an individual character 8 kinds, and there are 12 kinds of stages.<BR>There is the infinite mode, too. <BR><BR>Package size: 76 MB - More storage space required for install<BR><BR>Compatibility information:<BR>Number of players for local play: 1 Player<BR><BR>Supported interfaces/sensors<BR>- Touchscreen<BR>- Controller / On-screen controller<BR><BR>Supported languages:<BR>Japanese<BR><BR>2014(C) PRAGMA<BR><BR>Android is a trademark of Google Inc.<BR><BR>]]></description></localizedMeta><localizedMeta locale="ja"><description><![CDATA[このコンテンツはAndroid™端末非対応です。<BR><BR>更新<BR>v1.10…イージーモードを追加しました。<BR><BR>-----------------------------------------------------------------------------------------<BR>迫り来る妖怪たちを退治しよう！<BR>シンプルなタワーディフェンスゲーム。<BR>個性的なユニットが８種類、ステージは全部で１２種類。<BR>無限モードもあります。 <BR><BR>コンテンツ容量: 76 MB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR>- コントローラーまたは、オンスクリーンコントローラー<BR><BR>対応言語:<BR>日本語<BR><BR>著作権等:<BR>2014(C) PRAGMA<BR><BR>Android is a trademark of Google Inc.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Strategy"/><genre value="Games:Simulation"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_12.png</ratingLogo><contentDescriptor>PEGIEX_Violence.png</contentDescriptor></rating><rating type="SELF"><ratingLogo>SELF_12.png</ratingLogo><contentDescriptor>SELF_Fear.png</contentDescriptor><contentDescriptor>SELF_Violence.png</contentDescriptor></rating><rating type="ESRB"><ratingLogo>ESRB_13.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_1.png</screenShot><screenShot>screenshot_2.png</screenShot><screenShot>screenshot_3.png</screenShot><screenShot>screenshot_6.png</screenShot><screenShot>screenshot_4.png</screenShot><screenShot>screenshot_5.png</screenShot></screenShotList>
+
+</psmMeta>

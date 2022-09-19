@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00104_00">
+
+  <appVersion>2.00</appVersion>
+  <runtimeVersion>1.00</runtimeVersion>
+  <packageSize>5496816</packageSize>
+  <localizedMetadataList default_locale="ja"><localizedMeta locale="ja"><description><![CDATA[2ちゃんブラウザです。<BR><BR>勢い、新着、スレ順でのソート、既読スレの抽出<BR>スレタイ検索や次スレ検索<BR>レス番号やID,赤レス、自分のレスの抽出<BR>通常の書き込みやP2による書き込み　書き込み制限時間の警告やカウントダウンNGID,Name,Word,連鎖NG<BR>崩れにくいAA<BR>よく使うスレッドを登録して新着を自動取得<BR>などの様々な機能があります。 <BR><BR>コンテンツ容量: 5368 KB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR><BR>対応言語:<BR>日本語<BR><BR>著作権等:<BR>Copyright (C) 2012 Yamaoka Technology All Rights Reserved.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Apps:Communication"/><genre value="Apps:Entertainment"/></genreList>
+  <ratingList default="SELF"><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_11.png</screenShot><screenShot>screenshot_15.png</screenShot><screenShot>screenshot_10.png</screenShot><screenShot>screenshot_9.png</screenShot><screenShot>screenshot_12.png</screenShot><screenShot>screenshot_14.png</screenShot><screenShot>screenshot_13.png</screenShot></screenShotList>
+
+</psmMeta>

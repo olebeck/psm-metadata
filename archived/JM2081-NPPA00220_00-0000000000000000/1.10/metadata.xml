@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00220_00">
+
+  <appVersion>1.10</appVersion>
+  <runtimeVersion>2.00</runtimeVersion>
+  <packageSize>19051088</packageSize>
+  <localizedMetadataList default_locale="ja"><localizedMeta locale="en"><description><![CDATA[THIS CONTENT IS NOT COMPATIBLE WITH Android™ DEVICES.<BR><BR>Genre of this game is calculation puzzle game.<BR>There are answers left of screen.<BR>You must create same expressions as answer.<BR>You can move number and change Symbol of operation.<BR>if the answer and expression are same ,You will get score. <BR><BR>Package size: 19 MB - More storage space required for install<BR><BR>Compatibility information:<BR>Number of players for local play: 1-2 Players<BR><BR>Supported interfaces/sensors<BR>- Touchscreen<BR>- Controller / On-screen controller<BR>- Motion sensor<BR><BR>Supported languages:<BR>English(United States)/Japanese<BR><BR>Copyright (C) 2014 Lento Andante Inc. All Rights Reserved.<BR><BR>Android is a trademark of Google Inc.<BR><BR>]]></description></localizedMeta><localizedMeta locale="ja"><description><![CDATA[このコンテンツはAndroid™端末非対応です。<BR><BR>このゲームのジャンルは計算パズルゲームです。<BR>このゲームは出てくる数字の演算記号を変更して一番左に書かれた答えになるように式を組み立てて、答えと式が一致すると正解になり得点をもらえます。<BR><BR>ゲームオーバーになった時のスコアを競います。<BR><BR>また、同じLANに接続することにより、通信対戦をすることができます。<BR>通信対戦では正解して得点を得ることで相手を妨害することができます。<BR>相手がゲームオーバーになると勝ちです。<BR>さらに、通信対戦することで相手のハイスコアがランキングに登録されます。 <BR><BR>コンテンツ容量: 19 MB <BR><BR>プレイ人数: 1～2人<BR><BR>対応機能:<BR>- タッチスクリーン<BR>- コントローラーまたは、オンスクリーンコントローラー<BR>- モーションセンサー<BR><BR>対応言語:<BR>英語(アメリカ)/日本語<BR><BR>著作権等:<BR>Copyright (C) 2014 Lento Andante Inc. All Rights Reserved.<BR><BR>Android is a trademark of Google Inc.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Puzzle"/><genre value="Games:Educational"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_3.png</ratingLogo></rating><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating><rating type="ESRB"><ratingLogo>ESRB_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_18.png</screenShot><screenShot>screenshot_11.png</screenShot><screenShot>screenshot_12.png</screenShot><screenShot>screenshot_13.png</screenShot><screenShot>screenshot_19.png</screenShot><screenShot>screenshot_15.png</screenShot><screenShot>screenshot_16.png</screenShot><screenShot>screenshot_17.png</screenShot></screenShotList>
+
+</psmMeta>

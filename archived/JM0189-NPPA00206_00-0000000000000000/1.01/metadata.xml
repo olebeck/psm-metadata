@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00206_00">
+
+  <appVersion>1.01</appVersion>
+  <runtimeVersion>1.21</runtimeVersion>
+  <packageSize>12054224</packageSize>
+  <localizedMetadataList default_locale="ja"><localizedMeta locale="ja"><description><![CDATA[「ちょっと頭を使ってリズムに乗って」をコンセプトとした<BR>リズミカルパネルタッチパズルゲームです。<BR><BR>パネルをタッチするとタッチしたパネルが消えて<BR>タッチしたパネルと同じ色がつながっているとそれらのパネルも同時に消えます。<BR>同時に多くのパネルを消すと高得点！<BR>さらにパネルを４つ以上を連続で消すとコンボになってさらに高得点が狙えます。<BR>また、音楽のリズムに合わせてタッチするとボーナスでさらに点数が入ります。<BR><BR>音楽が終わる間に多くの点数を稼ぎましょう <BR><BR>コンテンツ容量: 12 MB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR>- コントローラーまたは、オンスクリーンコントローラー<BR><BR>対応言語:<BR>日本語<BR><BR>著作権等:<BR>KOBITO STUDIO<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:MusicRhythm"/><genre value="Games:Puzzle"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_3.png</ratingLogo></rating><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating><rating type="ESRB"><ratingLogo>ESRB_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_1.png</screenShot><screenShot>screenshot_2.png</screenShot><screenShot>screenshot_3.png</screenShot></screenShotList>
+
+</psmMeta>

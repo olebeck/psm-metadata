@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00120_00">
+
+  <appVersion>1.10</appVersion>
+  <runtimeVersion>1.21</runtimeVersion>
+  <packageSize>3361648</packageSize>
+  <localizedMetadataList default_locale="en"><localizedMeta locale="en"><description><![CDATA[It is a simple memo application.<BR>memo can be registered by category classification, search for data is also possible.<BR><BR>[Version1.10 Updated content]<BR>・Bulk deletion is Integrated into a memo list screen<BR>・Add filtering display in the category of memo<BR>・Add sort memo, category, word<BR>・Add lock of memo<BR>・Add bulk deletion category, word<BR>・Add search condition <BR><BR>Package size: 3283 KB - More storage space required for install<BR><BR>Compatibility information:<BR>Number of players for local play: 1 Player<BR><BR>Supported interfaces/sensors<BR>- Touchscreen<BR>- Controller / On-screen controller<BR><BR>Supported languages:<BR>English(United States)/English(United Kingdom)/Japanese<BR><BR>Copyright (C) 2013 SeazDevelop All Rights Reserved.<BR><BR>]]></description></localizedMeta><localizedMeta locale="ja"><description><![CDATA[シンプルなメモアプリケーションです。<BR>メモはカテゴリー分類して登録でき、データの検索も可能です。<BR><BR>[Version1.10 更新内容]<BR>・一括削除をメモ一覧画面に統合<BR>・メモのカテゴリーでのフィルタリング表示を追加<BR>・メモ、カテゴリー、単語のソートを追加<BR>・メモのロックを追加<BR>・カテゴリー、単語に一括削除を追加<BR>・検索条件の追加 <BR><BR>コンテンツ容量: 3283 KB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR>- コントローラーまたは、オンスクリーンコントローラー<BR><BR>対応言語:<BR>英語(アメリカ)/英語(イギリス)/日本語<BR><BR>著作権等:<BR>Copyright (C) 2013 SeazDevelop All Rights Reserved.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Apps:Utilities"/></genreList>
+  <ratingList default="SELF"><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_10.png</screenShot><screenShot>screenshot_11.png</screenShot><screenShot>screenshot_12.png</screenShot><screenShot>screenshot_14.png</screenShot><screenShot>screenshot_13.png</screenShot></screenShotList>
+
+</psmMeta>

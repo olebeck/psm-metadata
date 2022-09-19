@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00137_00">
+
+  <appVersion>2.10</appVersion>
+  <runtimeVersion>1.21</runtimeVersion>
+  <packageSize>5516704</packageSize>
+  <localizedMetadataList default_locale="ja"><localizedMeta locale="ja"><description><![CDATA[aramakiScopeは2ch専用ブラウザです。<BR><BR>2.10アップデート内容<BR><BR>●「ブックマーク機能」を追加しました。<BR>●「リリースノート」を追加しました。<BR>●「新機能のお知らせ」を追加しました。<BR>●「アンカーサムネイル」を画面タップで消去できるようにしました。<BR>●検索を半角スペースでAND検索できるようにしました。<BR>●物理キーの対応ボタンを一部変更しました。<BR>●「スレッドシーン」にて、「新着スレッド」、「カキコありスレッド」を色で判別できるようにしました。<BR>●検索で、大文字・小文字区別しないようにしました。<BR>●「サブウウィンドウ」で表示される情報を増やしました。<BR>●「サブウィンドウ」でも十字キーによるスクロールが出来るようにしました（PlayStation®Vitaの場合）。<BR>●アンカーをフォーカスした際に表示される文字列のフォントを調整しました。<BR>●「サブウィンドウ」の「レス番号」から「返信」が出来る」ようにしました。+ KAIGYOU +<BR>●「サブウィンドウ」で表示されるイメージビューワの機能をアップしました。<BR>●アナログスティックを倒した際の挙動を調整しました（PlayStation®Vitaの場合）。<BR>●「イメージURL」「2chスレッドURL」はそれとわかるように表示するようにしました。<BR>●起動時にボードデータが更新されていた場合、エラーダイアログが表示されていた部分を自動処理するように変更しました。<BR>●「絞込み」を行った後の挙動の一部バグを修正しました。<BR>●「全員コテハン機能」使用時に、リロードを行った際、正しく命名処理できていなかった問題を修正しました。<BR>●マニュアルをWebマニュアルに変更しました。<BR>●（一旦）諸般の事情により、おまけを削除しました。<BR>●全体的な挙動をチューニングしました。<BR>●一部挙動を調整をしました。<BR>●一部UIの調整をしました <BR><BR>コンテンツ容量: 5388 KB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR>- コントローラーまたは、オンスクリーンコントローラー<BR><BR>対応言語:<BR>日本語<BR><BR>著作権等:<BR>(C) 2013-2014 HAGE SOFT<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Apps:Communication"/></genreList>
+  <ratingList default="SELF"><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_65.png</screenShot><screenShot>screenshot_66.png</screenShot><screenShot>screenshot_69.png</screenShot><screenShot>screenshot_68.png</screenShot></screenShotList>
+
+</psmMeta>

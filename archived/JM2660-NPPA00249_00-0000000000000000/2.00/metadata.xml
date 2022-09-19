@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00249_00">
+
+  <appVersion>2.00</appVersion>
+  <runtimeVersion>4.03</runtimeVersion>
+  <packageSize>98801312</packageSize>
+  <localizedMetadataList default_locale="en"><localizedMeta locale="en"><description><![CDATA[THIS CONTENT IS NOT COMPATIBLE WITH Android™ DEVICES.<BR><BR>It is a machine translation from Japanese.<BR><BR>Shalt turn off the stones falling from the sky !<BR>It will extinguish by connecting the vertical and horizontal three or more stones of the same color and shape !<BR>Disturbing stone will extinguish in touch !<BR><BR>As you become familiar with the high degree of difficulty also play!<BR>Reflexes of you will be tried ... <BR><BR>Package size: 95 MB - More storage space required for install<BR><BR>Compatibility information:<BR>Number of players for local play: 1 Player<BR><BR>Supported interfaces/sensors<BR>- Touchscreen<BR><BR>Supported languages:<BR>English(United States)/Japanese<BR><BR>masaya miura<BR><BR>Android is a trademark of Google Inc.<BR><BR>]]></description></localizedMeta><localizedMeta locale="ja"><description><![CDATA[このコンテンツはAndroid™端末非対応です。<BR><BR>空から降り注ぐ石を消すべし！<BR>縦横3つ以上同じ色・形の石を繋げて消そう！<BR>邪魔な石はタッチで消そう！<BR><BR>慣れてきたら高難易度もプレイ！<BR>君の反射神経が試される…<BR><BR>※縦持ちして遊びます。 <BR><BR>コンテンツ容量: 95 MB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR><BR>対応言語:<BR>英語(アメリカ)/日本語<BR><BR>著作権等:<BR>masaya miura<BR><BR>Android is a trademark of Google Inc.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Puzzle"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_3.png</ratingLogo></rating><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating><rating type="ESRB"><ratingLogo>ESRB_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_5.png</screenShot><screenShot>screenshot_6.png</screenShot><screenShot>screenshot_7.png</screenShot><screenShot>screenshot_8.png</screenShot><screenShot>screenshot_9.png</screenShot></screenShotList>
+
+</psmMeta>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00129_00">
+
+  <appVersion>1.02</appVersion>
+  <runtimeVersion>1.21</runtimeVersion>
+  <packageSize>32592176</packageSize>
+  <localizedMetadataList default_locale="ja"><localizedMeta locale="ja"><description><![CDATA[「不思議の国のラビリンス」は「伝説の秘宝」を持ち帰るために、ラビリンスと呼ばれる謎の迷宮に挑むＲＰＧ。<BR>PlayStation®Storeで好評配信中のダウンロード専用「不思議の国の冒険酒場ポータブル」のスピンオフゲームです。<BR>ダンジョンに落ちている武器や盾、魔法の杖や薬を駆使しながらモンスターと戦ってレベルを上げ、ダンジョンの深層へ進みます。<BR>一度ダンジョンに入ると、クリアアイテムを手に入れるか、脱出アイテムを使う以外に、ダンジョンからは出られません。<BR>ダンジョンの中で倒れると、せっかく手に入れたアイテムはすべて失い、レベルも1に戻ります。<BR>そして、再びダンジョンに挑むと、今度は前回とはダンジョンの構造が違っています。<BR>ダンジョンを冒険した経験を積みながら、プレイヤー自身が成長していきます。<BR><BR>【Ver.1.02について】<BR>・不具合を修正しました。<BR>・Twitter連動機能を入れました。 <BR><BR>コンテンツ容量: 32 MB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR>- コントローラーまたは、オンスクリーンコントローラー<BR>- モーションセンサー<BR><BR>対応言語:<BR>日本語<BR><BR>著作権等:<BR>(C)RideonJapan,Inc.  (C)Rideon,Inc.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:RPG"/><genre value="Games:Adventure"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_3.png</ratingLogo></rating><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating><rating type="ESRB"><ratingLogo>ESRB_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_3.png</screenShot><screenShot>screenshot_4.png</screenShot><screenShot>screenshot_5.png</screenShot><screenShot>screenshot_6.png</screenShot><screenShot>screenshot_7.png</screenShot></screenShotList>
+
+</psmMeta>

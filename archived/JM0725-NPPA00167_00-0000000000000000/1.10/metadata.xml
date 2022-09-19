@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00167_00">
+
+  <appVersion>1.10</appVersion>
+  <runtimeVersion>1.21</runtimeVersion>
+  <packageSize>11699824</packageSize>
+  <localizedMetadataList default_locale="en"><localizedMeta locale="en"><description><![CDATA[Aim at the highest floor!!<BR> Nine enemies<BR> Eight traps <BR> Five shots &amp; Bomb <BR><BR>Package size: 12 MB - More storage space required for install<BR><BR>Compatibility information:<BR>Number of players for local play: 1 Player<BR><BR>Supported interfaces/sensors<BR>- Touchscreen<BR>- Controller / On-screen controller<BR><BR>Supported languages:<BR>English(United States)/English(United Kingdom)/French/Japanese<BR><BR>Copyright (C) 2013 Garagesoft Co.,Ltd All Rights Reserved.<BR><BR>]]></description></localizedMeta><localizedMeta locale="fr"><description><![CDATA[Visez le dernier étage! <BR>  neuf ennemis <BR>  huit pièges <BR>  Cinq coups et bombe <BR><BR>Taille du paquet : 12 Mo - Nécessite un plus grand espace de stockage pour l’installation<BR><BR>Informations sur la compatibilité :<BR>Nombre de joueurs pour jeu local : 1 joueur<BR><BR>Interfaces/détecteurs pris en charge<BR>- Écran tactile<BR>- Manette / Manette à l’écran<BR><BR>Langues prises en charge :<BR>Anglais(États-Unis)/Anglais(Royaume-Uni)/Français/Japonais<BR><BR>Copyright (C) 2013 Garagesoft Co.,Ltd All Rights Reserved.<BR><BR>]]></description></localizedMeta><localizedMeta locale="ja"><description><![CDATA[9つのモンスター、８つのトラップが設置されているタワーを<BR>5つのショットとボムを駆使し<BR>最上階を目指せ！！ <BR><BR>コンテンツ容量: 12 MB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR>- コントローラーまたは、オンスクリーンコントローラー<BR><BR>対応言語:<BR>英語(アメリカ)/英語(イギリス)/フランス語/日本語<BR><BR>著作権等:<BR>Copyright (C) 2013 Garagesoft Co.,Ltd All Rights Reserved.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Shooter"/><genre value="Games:RPG"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_7.png</ratingLogo><contentDescriptor>PEGIEX_Violence.png</contentDescriptor></rating><rating type="SELF"><ratingLogo>SELF_12.png</ratingLogo><contentDescriptor>SELF_Violence.png</contentDescriptor></rating><rating type="ESRB"><ratingLogo>ESRB_13.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_6.png</screenShot><screenShot>screenshot_7.png</screenShot><screenShot>screenshot_8.png</screenShot><screenShot>screenshot_9.png</screenShot></screenShotList>
+
+</psmMeta>

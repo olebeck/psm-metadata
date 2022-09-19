@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psmMeta npTitleId="NPPA00328_00">
+
+  <appVersion>4.00</appVersion>
+  <runtimeVersion>4.03</runtimeVersion>
+  <packageSize>227143776</packageSize>
+  <localizedMetadataList default_locale="ja"><localizedMeta locale="ja"><description><![CDATA[このコンテンツはAndroid™端末非対応です。<BR><BR>ユニットを配置してモンスターを撃退し、塔を守るタワーディフェンスゲームです。 <BR>個性的なモンスターたちは5体1組で襲撃してきます。<BR>ユニットの特性を活かし、クリアを目指しましょう。<BR><BR>※アップデートによりバランス修正がされる場合があります。<BR>予めご了承ください。<BR><BR>Version: 4.00 <BR><BR>コンテンツ容量: 217 MB <BR><BR>プレイ人数: 1人<BR><BR>対応機能:<BR>- タッチスクリーン<BR>- コントローラーまたは、オンスクリーンコントローラー<BR><BR>対応言語:<BR>日本語<BR><BR>著作権等:<BR>Copyright(C) 2015 RewriteWorks<BR><BR>Android is a trademark of Google Inc.<BR><BR>]]></description></localizedMeta></localizedMetadataList>
+  <genreList><genre value="Games:Strategy"/></genreList>
+  <ratingList default="SELF"><rating type="PEGIEX"><ratingLogo>PEGIEX_3.png</ratingLogo></rating><rating type="SELF"><ratingLogo>SELF_3.png</ratingLogo></rating><rating type="ESRB"><ratingLogo>ESRB_3.png</ratingLogo></rating></ratingList>
+  <screenShotList><screenShot>screenshot_29.png</screenShot><screenShot>screenshot_28.png</screenShot><screenShot>screenshot_19.png</screenShot><screenShot>screenshot_18.png</screenShot><screenShot>screenshot_22.png</screenShot><screenShot>screenshot_21.png</screenShot><screenShot>screenshot_26.png</screenShot></screenShotList>
+
+</psmMeta>
